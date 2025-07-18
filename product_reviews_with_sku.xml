@@ -1,0 +1,3518 @@
+<?xml version="1.0" ?>
+<feed xmlns="http://www.w3.org/2005/Atom">
+  <title>Product Reviews Feed</title>
+  <link rel="self" href="https://yourdomain.com/product_reviews.xml"/>
+  <updated>2025-07-18T07:03:43Z</updated>
+  <entry>
+    <review_id>review-1</review_id>
+    <reviewer>
+      <name>J.P.</name>
+    </reviewer>
+    <review_timestamp>2024-06-12T02:55:19Z</review_timestamp>
+    <title>Perfect?</title>
+    <content>Amazing shopping experience! High quality product!</content>
+    <rating>5</rating>
+    <is_spam>false</is_spam>
+    <is_deleted>false</is_deleted>
+    <product_ids>
+      <sku>GH94389-01B</sku>
+      <brand>FlyAchilles</brand>
+    </product_ids>
+  </entry>
+  <entry>
+    <review_id>review-2</review_id>
+    <reviewer>
+      <name>sara</name>
+    </reviewer>
+    <review_timestamp>2024-07-15T09:10:07Z</review_timestamp>
+    <title>Perfect!</title>
+    <content>This globe is nice and bright and it looks cool in my patio. So far it's doing great. Love it</content>
+    <rating>5</rating>
+    <is_spam>false</is_spam>
+    <is_deleted>false</is_deleted>
+    <product_ids>
+      <sku>OD2008-17</sku>
+      <brand>FlyAchilles</brand>
+    </product_ids>
+  </entry>
+  <entry>
+    <review_id>review-3</review_id>
+    <reviewer>
+      <name>Jennie</name>
+    </reviewer>
+    <review_timestamp>2024-07-17T06:14:32Z</review_timestamp>
+    <title>Easy install</title>
+    <content>This light replaced a very, very old hallway light. It's changes the look and feel of the hallway. Such a good purchase.Installation was easy as well</content>
+    <rating>4</rating>
+    <is_spam>false</is_spam>
+    <is_deleted>false</is_deleted>
+    <product_ids>
+      <sku>BJ2006-03</sku>
+      <brand>FlyAchilles</brand>
+    </product_ids>
+  </entry>
+  <entry>
+    <review_id>review-4</review_id>
+    <reviewer>
+      <name>Joe</name>
+    </reviewer>
+    <review_timestamp>2024-07-19T02:31:46Z</review_timestamp>
+    <title>Great looking light!</title>
+    <content>So far, I am very satisfied with my purchase. It looks fantastic!It appeared to be easy for the electrician to install. I wished I had purchased the 47&quot; one. Love the bling!</content>
+    <rating>5</rating>
+    <is_spam>false</is_spam>
+    <is_deleted>false</is_deleted>
+    <product_ids>
+      <sku>DJ8325B-01</sku>
+      <brand>FlyAchilles</brand>
+    </product_ids>
+  </entry>
+  <entry>
+    <review_id>review-5</review_id>
+    <reviewer>
+      <name>britny hell</name>
+    </reviewer>
+    <review_timestamp>2024-07-25T10:34:59Z</review_timestamp>
+    <title>Good product</title>
+    <content>These were so easy to install and really completes the look of my living room. Added these to in my living room as night lights, but on the highest setting they brighten up my living room.</content>
+    <rating>5</rating>
+    <is_spam>false</is_spam>
+    <is_deleted>false</is_deleted>
+    <product_ids>
+      <sku>BJ2029-01</sku>
+      <brand>FlyAchilles</brand>
+    </product_ids>
+  </entry>
+  <entry>
+    <review_id>review-6</review_id>
+    <reviewer>
+      <name>Heathey</name>
+    </reviewer>
+    <review_timestamp>2024-08-01T03:12:56Z</review_timestamp>
+    <title>Adjustable angle</title>
+    <content>I love that it has an adjustable angle, can swivel left and right, and has a flip cover. nice!</content>
+    <rating>5</rating>
+    <is_spam>false</is_spam>
+    <is_deleted>false</is_deleted>
+    <product_ids>
+      <sku>DJ9345B-01</sku>
+      <brand>FlyAchilles</brand>
+    </product_ids>
+  </entry>
+  <entry>
+    <review_id>review-7</review_id>
+    <reviewer>
+      <name>Rani Pitts</name>
+    </reviewer>
+    <review_timestamp>2024-08-01T10:36:05Z</review_timestamp>
+    <title>So beautiful!</title>
+    <content>Absolutely beautiful! I bought 2 and was a bit nervous, very well packaged. They make the room</content>
+    <rating>4</rating>
+    <is_spam>false</is_spam>
+    <is_deleted>false</is_deleted>
+    <product_ids>
+      <sku>DJ8327B-01</sku>
+      <brand>FlyAchilles</brand>
+    </product_ids>
+  </entry>
+  <entry>
+    <review_id>review-8</review_id>
+    <reviewer>
+      <name>Sunshine</name>
+    </reviewer>
+    <review_timestamp>2024-08-01T10:57:01Z</review_timestamp>
+    <title>Exactly what I was looking for</title>
+    <content>These are gorgeous. Everything seems very well made and not likely to break in the rain or anything.Exactly what I was looking for, and I plan on buying more as long as they hold up.</content>
+    <rating>5</rating>
+    <is_spam>false</is_spam>
+    <is_deleted>false</is_deleted>
+    <product_ids>
+      <sku>FN994-02B</sku>
+      <brand>FlyAchilles</brand>
+    </product_ids>
+  </entry>
+  <entry>
+    <review_id>review-9</review_id>
+    <reviewer>
+      <name>Brenda Peppard</name>
+    </reviewer>
+    <review_timestamp>2024-08-01T23:43:28Z</review_timestamp>
+    <title>Review</title>
+    <content>Beautiful</content>
+    <rating>5</rating>
+    <is_spam>false</is_spam>
+    <is_deleted>false</is_deleted>
+    <product_ids>
+      <sku>GH94389-01B</sku>
+      <brand>FlyAchilles</brand>
+    </product_ids>
+  </entry>
+  <entry>
+    <review_id>review-10</review_id>
+    <reviewer>
+      <name>Aaloney</name>
+    </reviewer>
+    <review_timestamp>2024-08-06T04:06:25Z</review_timestamp>
+    <title>Good quality</title>
+    <content>They are so artsy looking, good quality cement material, no fear of wind and rain, the light at night time is nice and bright.</content>
+    <rating>5</rating>
+    <is_spam>false</is_spam>
+    <is_deleted>false</is_deleted>
+    <product_ids>
+      <sku>BJ2016-07</sku>
+      <brand>FlyAchilles</brand>
+    </product_ids>
+  </entry>
+  <entry>
+    <review_id>review-11</review_id>
+    <reviewer>
+      <name>Joely</name>
+    </reviewer>
+    <review_timestamp>2024-08-08T06:18:12Z</review_timestamp>
+    <title>Very Good Outdoor Lantern</title>
+    <content>This is better than I expected.lloks beautiful and It creates a warm glow, which is exactly what i wanted.I will purchase again !</content>
+    <rating>5</rating>
+    <is_spam>false</is_spam>
+    <is_deleted>false</is_deleted>
+    <product_ids>
+      <sku>FN3116-02B</sku>
+      <brand>FlyAchilles</brand>
+    </product_ids>
+  </entry>
+  <entry>
+    <review_id>review-12</review_id>
+    <reviewer>
+      <name>Bresgal</name>
+    </reviewer>
+    <review_timestamp>2024-08-08T07:33:49Z</review_timestamp>
+    <title>Good quality, metal is thick</title>
+    <content>The metal is thick and not paper thin like others. The finish really is quite nice. The siding on this was different than rest of house so I decided to go with these. I love these!</content>
+    <rating>5</rating>
+    <is_spam>false</is_spam>
+    <is_deleted>false</is_deleted>
+    <product_ids>
+      <sku>BJ2020-01</sku>
+      <brand>FlyAchilles</brand>
+    </product_ids>
+  </entry>
+  <entry>
+    <review_id>review-13</review_id>
+    <reviewer>
+      <name>Daniel</name>
+    </reviewer>
+    <review_timestamp>2024-08-13T07:03:03Z</review_timestamp>
+    <title>Great look</title>
+    <content>Great quality and look. I really like how the light projects.</content>
+    <rating>4</rating>
+    <is_spam>false</is_spam>
+    <is_deleted>false</is_deleted>
+    <product_ids>
+      <sku>BJ2046-01</sku>
+      <brand>FlyAchilles</brand>
+    </product_ids>
+  </entry>
+  <entry>
+    <review_id>review-14</review_id>
+    <reviewer>
+      <name>Eilean</name>
+    </reviewer>
+    <review_timestamp>2024-08-14T09:43:51Z</review_timestamp>
+    <title>Bright and beautiful</title>
+    <content>I just received this and installed. Installation wasn't too bad... you do have to hang each crystal. Overall we are so pleased with how this turned out, and it looks even more beautiful than we imagined. It even goes well with our home.</content>
+    <rating>5</rating>
+    <is_spam>false</is_spam>
+    <is_deleted>false</is_deleted>
+    <product_ids>
+      <sku>DJ9356B-01</sku>
+      <brand>FlyAchilles</brand>
+    </product_ids>
+  </entry>
+  <entry>
+    <review_id>review-15</review_id>
+    <reviewer>
+      <name>Tina Blair</name>
+    </reviewer>
+    <review_timestamp>2024-08-21T03:13:50Z</review_timestamp>
+    <title>Exactly what I was looking for</title>
+    <content>This is exactly what I was looking for! I have a small patio and I wanted soft ambient lighting for enjoying my outside space in the evening. I love it!</content>
+    <rating>5</rating>
+    <is_spam>false</is_spam>
+    <is_deleted>false</is_deleted>
+    <product_ids>
+      <sku>OD1020-01</sku>
+      <brand>FlyAchilles</brand>
+    </product_ids>
+  </entry>
+  <entry>
+    <review_id>review-16</review_id>
+    <reviewer>
+      <name>Brenda</name>
+    </reviewer>
+    <review_timestamp>2024-08-21T03:52:27Z</review_timestamp>
+    <title>It's gorgeous</title>
+    <content>This is an awesome lamp. It's heavy and not easy to hang. But it's gorgeous. We saw it in a house and my wife had to have it. So i bought this and the pics don't do justice.</content>
+    <rating>5</rating>
+    <is_spam>false</is_spam>
+    <is_deleted>false</is_deleted>
+    <product_ids>
+      <sku>BJ2025-01</sku>
+      <brand>FlyAchilles</brand>
+    </product_ids>
+  </entry>
+  <entry>
+    <review_id>review-17</review_id>
+    <reviewer>
+      <name>John M.</name>
+    </reviewer>
+    <review_timestamp>2024-08-27T10:57:25Z</review_timestamp>
+    <title>Waterproof, light is bright</title>
+    <content>Love these so much bought a second set. They seem to be waterproof, light is bright and was very easy to assemble. I want to order more for the back of yard</content>
+    <rating>5</rating>
+    <is_spam>false</is_spam>
+    <is_deleted>false</is_deleted>
+    <product_ids>
+      <sku>DJ2041-03</sku>
+      <brand>FlyAchilles</brand>
+    </product_ids>
+  </entry>
+  <entry>
+    <review_id>review-18</review_id>
+    <reviewer>
+      <name>LISA</name>
+    </reviewer>
+    <review_timestamp>2024-08-30T03:37:52Z</review_timestamp>
+    <title>Perfect</title>
+    <content>We have put these light fixtures in our porch.  They痳e perfect. We like them so much that we plan to order more for our kitchen.</content>
+    <rating>5</rating>
+    <is_spam>false</is_spam>
+    <is_deleted>false</is_deleted>
+    <product_ids>
+      <sku>BJ2051-01</sku>
+      <brand>FlyAchilles</brand>
+    </product_ids>
+  </entry>
+  <entry>
+    <review_id>review-19</review_id>
+    <reviewer>
+      <name>kaesae</name>
+    </reviewer>
+    <review_timestamp>2024-08-30T05:47:22Z</review_timestamp>
+    <title>Love these sconces!</title>
+    <content>I love these! I put them in our family room for movie nights - I hate overhead lighting but my husband hates watching movies with zero light so these are the perfect compromise.</content>
+    <rating>5</rating>
+    <is_spam>false</is_spam>
+    <is_deleted>false</is_deleted>
+    <product_ids>
+      <sku>BJ2044-01</sku>
+      <brand>FlyAchilles</brand>
+    </product_ids>
+  </entry>
+  <entry>
+    <review_id>review-20</review_id>
+    <reviewer>
+      <name>Alessed</name>
+    </reviewer>
+    <review_timestamp>2024-08-30T06:59:53Z</review_timestamp>
+    <title>Really cool</title>
+    <content>The lights are really cool. I like that there are no unsightly wires hanging or candles burning.</content>
+    <rating>4</rating>
+    <is_spam>false</is_spam>
+    <is_deleted>false</is_deleted>
+    <product_ids>
+      <sku>DJ2011-05</sku>
+      <brand>FlyAchilles</brand>
+    </product_ids>
+  </entry>
+  <entry>
+    <review_id>review-21</review_id>
+    <reviewer>
+      <name>Yara Kitttty</name>
+    </reviewer>
+    <review_timestamp>2024-08-30T08:20:22Z</review_timestamp>
+    <title>Send it my love</title>
+    <content>This lamp is just too cute!!!!I痬 seriously obsessed with it! Also, here痵 a peek at my room?</content>
+    <rating>5</rating>
+    <is_spam>false</is_spam>
+    <is_deleted>false</is_deleted>
+    <product_ids>
+      <sku>LD1004-01</sku>
+      <brand>FlyAchilles</brand>
+    </product_ids>
+  </entry>
+  <entry>
+    <review_id>review-22</review_id>
+    <reviewer>
+      <name>T. Peters</name>
+    </reviewer>
+    <review_timestamp>2024-09-02T03:46:01Z</review_timestamp>
+    <title>You've got my respect</title>
+    <content>This lamp has an amazing value for the price and ships really fast. I痬 really grateful for our online customer service for always being so helpful and answering my questions.</content>
+    <rating>4</rating>
+    <is_spam>false</is_spam>
+    <is_deleted>false</is_deleted>
+    <product_ids>
+      <sku>OD2038-01</sku>
+      <brand>FlyAchilles</brand>
+    </product_ids>
+  </entry>
+  <entry>
+    <review_id>review-23</review_id>
+    <reviewer>
+      <name>David H</name>
+    </reviewer>
+    <review_timestamp>2024-09-02T04:03:28Z</review_timestamp>
+    <title>Good quality</title>
+    <content>Product was high quality and was easily retrofitted to the original light.</content>
+    <rating>5</rating>
+    <is_spam>false</is_spam>
+    <is_deleted>false</is_deleted>
+    <product_ids>
+      <sku>FN1053-01B</sku>
+      <brand>FlyAchilles</brand>
+    </product_ids>
+  </entry>
+  <entry>
+    <review_id>review-24</review_id>
+    <reviewer>
+      <name>Juliette</name>
+    </reviewer>
+    <review_timestamp>2024-09-03T04:02:56Z</review_timestamp>
+    <title>I like this ice cube lamp</title>
+    <content>It痵 very textured and has great brightness. I can place and arrange it freely in my yard.</content>
+    <rating>5</rating>
+    <is_spam>false</is_spam>
+    <is_deleted>false</is_deleted>
+    <product_ids>
+      <sku>GH89346-01B</sku>
+      <brand>FlyAchilles</brand>
+    </product_ids>
+  </entry>
+  <entry>
+    <review_id>review-25</review_id>
+    <reviewer>
+      <name>Olivia</name>
+    </reviewer>
+    <review_timestamp>2024-09-03T06:26:35Z</review_timestamp>
+    <title>They are perfect</title>
+    <content>They look exactly as pictured. They were easy to wire and install. I couldn痶 be more pleased! They provide the perfect amount of light.</content>
+    <rating>5</rating>
+    <is_spam>false</is_spam>
+    <is_deleted>false</is_deleted>
+    <product_ids>
+      <sku>unknown</sku>
+      <brand>FlyAchilles</brand>
+    </product_ids>
+  </entry>
+  <entry>
+    <review_id>review-26</review_id>
+    <reviewer>
+      <name>Lyuge</name>
+    </reviewer>
+    <review_timestamp>2024-09-03T06:39:11Z</review_timestamp>
+    <title>Fast shipping</title>
+    <content>Very fast shipping, super bright. I put them on our back deck steps as well as our steps leading out to our dock.</content>
+    <rating>5</rating>
+    <is_spam>false</is_spam>
+    <is_deleted>false</is_deleted>
+    <product_ids>
+      <sku>GH88060-01B</sku>
+      <brand>FlyAchilles</brand>
+    </product_ids>
+  </entry>
+  <entry>
+    <review_id>review-27</review_id>
+    <reviewer>
+      <name>Sunshin</name>
+    </reviewer>
+    <review_timestamp>2024-09-05T08:55:24Z</review_timestamp>
+    <title>Beautiful</title>
+    <content>We had bought the larger size to test out in the Las Vegas heat. Colors are nice and bright. No issues. Would recommend and we would probably buy more for the backyard.</content>
+    <rating>5</rating>
+    <is_spam>false</is_spam>
+    <is_deleted>false</is_deleted>
+    <product_ids>
+      <sku>OD2008-17</sku>
+      <brand>FlyAchilles</brand>
+    </product_ids>
+  </entry>
+  <entry>
+    <review_id>review-28</review_id>
+    <reviewer>
+      <name>Tania</name>
+    </reviewer>
+    <review_timestamp>2024-09-05T09:37:25Z</review_timestamp>
+    <title>Elegante</title>
+    <content>We love it. Putting it together was pretty easy with my husband. But we did hire an electrician to install it though, for security reasons. Very happy with this purchase!</content>
+    <rating>5</rating>
+    <is_spam>false</is_spam>
+    <is_deleted>false</is_deleted>
+    <product_ids>
+      <sku>DJ8336B-01</sku>
+      <brand>FlyAchilles</brand>
+    </product_ids>
+  </entry>
+  <entry>
+    <review_id>review-29</review_id>
+    <reviewer>
+      <name>Devon Keane</name>
+    </reviewer>
+    <review_timestamp>2024-09-10T18:36:01Z</review_timestamp>
+    <title>beautiful and vibey</title>
+    <content>love this fixture, perfect fit for a vibey moody design</content>
+    <rating>5</rating>
+    <is_spam>false</is_spam>
+    <is_deleted>false</is_deleted>
+    <product_ids>
+      <sku>DJ9345B-01</sku>
+      <brand>FlyAchilles</brand>
+    </product_ids>
+  </entry>
+  <entry>
+    <review_id>review-30</review_id>
+    <reviewer>
+      <name>Kelly M.</name>
+    </reviewer>
+    <review_timestamp>2024-09-19T13:37:48Z</review_timestamp>
+    <title>I recommend</title>
+    <content>Very happy with the price and quality of materials.</content>
+    <rating>5</rating>
+    <is_spam>false</is_spam>
+    <is_deleted>false</is_deleted>
+    <product_ids>
+      <sku>BJ2020-01</sku>
+      <brand>FlyAchilles</brand>
+    </product_ids>
+  </entry>
+  <entry>
+    <review_id>review-31</review_id>
+    <reviewer>
+      <name>Johnathan</name>
+    </reviewer>
+    <review_timestamp>2024-09-19T13:40:47Z</review_timestamp>
+    <title>Absolutely excellent quality at this price</title>
+    <content>perfect product</content>
+    <rating>5</rating>
+    <is_spam>false</is_spam>
+    <is_deleted>false</is_deleted>
+    <product_ids>
+      <sku>DJ8360-19</sku>
+      <brand>FlyAchilles</brand>
+    </product_ids>
+  </entry>
+  <entry>
+    <review_id>review-32</review_id>
+    <reviewer>
+      <name>Donna Dipietro</name>
+    </reviewer>
+    <review_timestamp>2024-09-20T11:36:00Z</review_timestamp>
+    <title>Review</title>
+    <content>My fence is complete
+ Work very well with the landscape</content>
+    <rating>5</rating>
+    <is_spam>false</is_spam>
+    <is_deleted>false</is_deleted>
+    <product_ids>
+      <sku>OD2032-01*6</sku>
+      <brand>FlyAchilles</brand>
+    </product_ids>
+  </entry>
+  <entry>
+    <review_id>review-33</review_id>
+    <reviewer>
+      <name>dave buich</name>
+    </reviewer>
+    <review_timestamp>2024-11-21T16:08:30Z</review_timestamp>
+    <title>Review</title>
+    <content>No comment</content>
+    <rating>4</rating>
+    <is_spam>false</is_spam>
+    <is_deleted>false</is_deleted>
+    <product_ids>
+      <sku>BJ2016-07</sku>
+      <brand>FlyAchilles</brand>
+    </product_ids>
+  </entry>
+  <entry>
+    <review_id>review-34</review_id>
+    <reviewer>
+      <name>Curry</name>
+    </reviewer>
+    <review_timestamp>2024-11-29T11:00:49Z</review_timestamp>
+    <title>I really like the color</title>
+    <content>Very pure color</content>
+    <rating>5</rating>
+    <is_spam>false</is_spam>
+    <is_deleted>false</is_deleted>
+    <product_ids>
+      <sku>RD1004-01+RD1006-01</sku>
+      <brand>FlyAchilles</brand>
+    </product_ids>
+  </entry>
+  <entry>
+    <review_id>review-35</review_id>
+    <reviewer>
+      <name>Smith</name>
+    </reviewer>
+    <review_timestamp>2024-11-29T11:07:09Z</review_timestamp>
+    <title>It looks very nice</title>
+    <content>It assembled easy,  It looks very nice, once mounted, it's extremely sturdy.</content>
+    <rating>5</rating>
+    <is_spam>false</is_spam>
+    <is_deleted>false</is_deleted>
+    <product_ids>
+      <sku>FN1052-01B</sku>
+      <brand>FlyAchilles</brand>
+    </product_ids>
+  </entry>
+  <entry>
+    <review_id>review-36</review_id>
+    <reviewer>
+      <name>Mclaren</name>
+    </reviewer>
+    <review_timestamp>2024-11-29T11:13:53Z</review_timestamp>
+    <title>Quality good</title>
+    <content>The quality is super good, the weight is a bit heavy, it's not cheap plastic, and the light coverage is great.</content>
+    <rating>5</rating>
+    <is_spam>false</is_spam>
+    <is_deleted>false</is_deleted>
+    <product_ids>
+      <sku>OD2068-01</sku>
+      <brand>FlyAchilles</brand>
+    </product_ids>
+  </entry>
+  <entry>
+    <review_id>review-37</review_id>
+    <reviewer>
+      <name>Kevin</name>
+    </reviewer>
+    <review_timestamp>2024-11-29T11:19:33Z</review_timestamp>
+    <title>brightness</title>
+    <content>Ease of installation and brightness. Everything worked perfectly.</content>
+    <rating>5</rating>
+    <is_spam>false</is_spam>
+    <is_deleted>false</is_deleted>
+    <product_ids>
+      <sku>OD2073-01</sku>
+      <brand>FlyAchilles</brand>
+    </product_ids>
+  </entry>
+  <entry>
+    <review_id>review-38</review_id>
+    <reviewer>
+      <name>Rolex</name>
+    </reviewer>
+    <review_timestamp>2024-11-29T11:25:27Z</review_timestamp>
+    <title>Fast shipping</title>
+    <content>Fast shipping, received it very quickly.</content>
+    <rating>5</rating>
+    <is_spam>false</is_spam>
+    <is_deleted>false</is_deleted>
+    <product_ids>
+      <sku>OD2055-03</sku>
+      <brand>FlyAchilles</brand>
+    </product_ids>
+  </entry>
+  <entry>
+    <review_id>review-39</review_id>
+    <reviewer>
+      <name>Calanus</name>
+    </reviewer>
+    <review_timestamp>2024-11-29T11:31:00Z</review_timestamp>
+    <title>With plug, easy to use</title>
+    <content>I wanted a LED string lights to hghlight Christmas decorations, it is with plug, easy to use. Perfect.</content>
+    <rating>5</rating>
+    <is_spam>false</is_spam>
+    <is_deleted>false</is_deleted>
+    <product_ids>
+      <sku>SD1001-06</sku>
+      <brand>FlyAchilles</brand>
+    </product_ids>
+  </entry>
+  <entry>
+    <review_id>review-40</review_id>
+    <reviewer>
+      <name>Joe</name>
+    </reviewer>
+    <review_timestamp>2024-11-29T11:33:36Z</review_timestamp>
+    <title>Very pretty, very 'showy'</title>
+    <content>Great value for your money the size is perfect.</content>
+    <rating>5</rating>
+    <is_spam>false</is_spam>
+    <is_deleted>false</is_deleted>
+    <product_ids>
+      <sku>HD1003-01</sku>
+      <brand>FlyAchilles</brand>
+    </product_ids>
+  </entry>
+  <entry>
+    <review_id>review-41</review_id>
+    <reviewer>
+      <name>Kevin</name>
+    </reviewer>
+    <review_timestamp>2024-11-29T11:34:52Z</review_timestamp>
+    <title>It works as expected</title>
+    <content>It works as expected.  Well constructed. Looking forward to using it at our Christmas event.</content>
+    <rating>5</rating>
+    <is_spam>false</is_spam>
+    <is_deleted>false</is_deleted>
+    <product_ids>
+      <sku>RD1017-01</sku>
+      <brand>FlyAchilles</brand>
+    </product_ids>
+  </entry>
+  <entry>
+    <review_id>review-42</review_id>
+    <reviewer>
+      <name>James</name>
+    </reviewer>
+    <review_timestamp>2024-11-29T11:37:48Z</review_timestamp>
+    <title>Yard light</title>
+    <content>Works great. Lots of light.</content>
+    <rating>5</rating>
+    <is_spam>false</is_spam>
+    <is_deleted>false</is_deleted>
+    <product_ids>
+      <sku>GH90196-01B</sku>
+      <brand>FlyAchilles</brand>
+    </product_ids>
+  </entry>
+  <entry>
+    <review_id>review-43</review_id>
+    <reviewer>
+      <name>wendy</name>
+    </reviewer>
+    <review_timestamp>2024-11-29T11:44:24Z</review_timestamp>
+    <title>Everything works as it should</title>
+    <content>Wow, just wow. These lights are awesome! Took a couple of hours between drilling, fishing the wires, and tacking all the wires neatly but glad how it came out.</content>
+    <rating>5</rating>
+    <is_spam>false</is_spam>
+    <is_deleted>false</is_deleted>
+    <product_ids>
+      <sku>FN3363-01B</sku>
+      <brand>FlyAchilles</brand>
+    </product_ids>
+  </entry>
+  <entry>
+    <review_id>review-44</review_id>
+    <reviewer>
+      <name>M. Boutin</name>
+    </reviewer>
+    <review_timestamp>2024-11-29T11:58:32Z</review_timestamp>
+    <title>Excellent</title>
+    <content>Excellent. I love em. They look awesome.</content>
+    <rating>5</rating>
+    <is_spam>false</is_spam>
+    <is_deleted>false</is_deleted>
+    <product_ids>
+      <sku>GH87992-01B</sku>
+      <brand>FlyAchilles</brand>
+    </product_ids>
+  </entry>
+  <entry>
+    <review_id>review-45</review_id>
+    <reviewer>
+      <name>Zeike</name>
+    </reviewer>
+    <review_timestamp>2024-11-30T03:46:25Z</review_timestamp>
+    <title>They are sturdy</title>
+    <content>Now my front yard and driveway are well lit even at 30% .Also they are sturdy and look expensive.</content>
+    <rating>5</rating>
+    <is_spam>false</is_spam>
+    <is_deleted>false</is_deleted>
+    <product_ids>
+      <sku>FN2625-01B</sku>
+      <brand>FlyAchilles</brand>
+    </product_ids>
+  </entry>
+  <entry>
+    <review_id>review-46</review_id>
+    <reviewer>
+      <name>Richard</name>
+    </reviewer>
+    <review_timestamp>2024-11-30T03:52:06Z</review_timestamp>
+    <title>They work fantastic</title>
+    <content>I no longer have to keep the lights on for deliveries after dark. With the lights automatically coming on with any movement, there's safety for us and anyone coming up the walk and to the door.</content>
+    <rating>5</rating>
+    <is_spam>false</is_spam>
+    <is_deleted>false</is_deleted>
+    <product_ids>
+      <sku>OD2097-01</sku>
+      <brand>FlyAchilles</brand>
+    </product_ids>
+  </entry>
+  <entry>
+    <review_id>review-47</review_id>
+    <reviewer>
+      <name>Brianty</name>
+    </reviewer>
+    <review_timestamp>2024-11-30T04:11:24Z</review_timestamp>
+    <title>Worth every penny!</title>
+    <content>They give the house a nice look. The price seemed almost too good to be true, but I was not disappointed. I痸e had them for about a month and they are fantastic.</content>
+    <rating>5</rating>
+    <is_spam>false</is_spam>
+    <is_deleted>false</is_deleted>
+    <product_ids>
+      <sku>BJ2097-06</sku>
+      <brand>FlyAchilles</brand>
+    </product_ids>
+  </entry>
+  <entry>
+    <review_id>review-48</review_id>
+    <reviewer>
+      <name>David</name>
+    </reviewer>
+    <review_timestamp>2024-11-30T09:24:26Z</review_timestamp>
+    <title>love them</title>
+    <content>We bought these for our cabana outside and we absolutely love them. They do give a pretty good amount of light and they had good ambience.</content>
+    <rating>5</rating>
+    <is_spam>false</is_spam>
+    <is_deleted>false</is_deleted>
+    <product_ids>
+      <sku>FN2022-01B</sku>
+      <brand>FlyAchilles</brand>
+    </product_ids>
+  </entry>
+  <entry>
+    <review_id>review-49</review_id>
+    <reviewer>
+      <name>Minaly</name>
+    </reviewer>
+    <review_timestamp>2024-11-30T09:33:44Z</review_timestamp>
+    <title>Very pleased with them</title>
+    <content>Easy to install, and with the right bulbs it looks like the carriage gas lanterns!!</content>
+    <rating>5</rating>
+    <is_spam>false</is_spam>
+    <is_deleted>false</is_deleted>
+    <product_ids>
+      <sku>BJ2037-02</sku>
+      <brand>FlyAchilles</brand>
+    </product_ids>
+  </entry>
+  <entry>
+    <review_id>review-50</review_id>
+    <reviewer>
+      <name>Sarahly</name>
+    </reviewer>
+    <review_timestamp>2024-11-30T09:43:39Z</review_timestamp>
+    <title>Beautiful</title>
+    <content>Nice lights for the money, very beautiful and plenty of light, highly recommend</content>
+    <rating>5</rating>
+    <is_spam>false</is_spam>
+    <is_deleted>false</is_deleted>
+    <product_ids>
+      <sku>OD2102-01</sku>
+      <brand>FlyAchilles</brand>
+    </product_ids>
+  </entry>
+  <entry>
+    <review_id>review-51</review_id>
+    <reviewer>
+      <name>Peter</name>
+    </reviewer>
+    <review_timestamp>2024-11-30T09:48:37Z</review_timestamp>
+    <title>Great quality</title>
+    <content>Vey easy installation and great quality lighting.They are the perfect modern/farmhouse light.</content>
+    <rating>5</rating>
+    <is_spam>false</is_spam>
+    <is_deleted>false</is_deleted>
+    <product_ids>
+      <sku>BJ2013-01</sku>
+      <brand>FlyAchilles</brand>
+    </product_ids>
+  </entry>
+  <entry>
+    <review_id>review-52</review_id>
+    <reviewer>
+      <name>Shana</name>
+    </reviewer>
+    <review_timestamp>2024-11-30T09:54:08Z</review_timestamp>
+    <title>Great Value for the price</title>
+    <content>This fixture far exceeded my expectations! My husband was afraid to ask how much it cost?when I told him he couldn痶 believe it! It really looks like an expensive fixture璪ut it was totally affordable!</content>
+    <rating>5</rating>
+    <is_spam>false</is_spam>
+    <is_deleted>false</is_deleted>
+    <product_ids>
+      <sku>OD2112-14</sku>
+      <brand>FlyAchilles</brand>
+    </product_ids>
+  </entry>
+  <entry>
+    <review_id>review-53</review_id>
+    <reviewer>
+      <name>Michael</name>
+    </reviewer>
+    <review_timestamp>2024-11-30T10:00:10Z</review_timestamp>
+    <title>Look great</title>
+    <content>These look really nice outside of our garage doors. They were easy to install and withstood two hurricanes this Summer in Florida.</content>
+    <rating>5</rating>
+    <is_spam>false</is_spam>
+    <is_deleted>false</is_deleted>
+    <product_ids>
+      <sku>FN963-01B</sku>
+      <brand>FlyAchilles</brand>
+    </product_ids>
+  </entry>
+  <entry>
+    <review_id>review-54</review_id>
+    <reviewer>
+      <name>Meniaht</name>
+    </reviewer>
+    <review_timestamp>2024-11-30T10:04:42Z</review_timestamp>
+    <title>Its ok</title>
+    <content>I can痶 see any downsides with these lights. I can痶 judge their performance on weather exposure as they are in my proch.</content>
+    <rating>5</rating>
+    <is_spam>false</is_spam>
+    <is_deleted>false</is_deleted>
+    <product_ids>
+      <sku>GH90832-01B</sku>
+      <brand>FlyAchilles</brand>
+    </product_ids>
+  </entry>
+  <entry>
+    <review_id>review-55</review_id>
+    <reviewer>
+      <name>John</name>
+    </reviewer>
+    <review_timestamp>2024-11-30T10:56:46Z</review_timestamp>
+    <title>Good quality</title>
+    <content>Very good quality, long irradiation distance.</content>
+    <rating>5</rating>
+    <is_spam>false</is_spam>
+    <is_deleted>false</is_deleted>
+    <product_ids>
+      <sku>GH94604-01B</sku>
+      <brand>FlyAchilles</brand>
+    </product_ids>
+  </entry>
+  <entry>
+    <review_id>review-56</review_id>
+    <reviewer>
+      <name>Malisams</name>
+    </reviewer>
+    <review_timestamp>2024-11-30T11:01:26Z</review_timestamp>
+    <title>As advertised</title>
+    <content>Installed them on our front lawn and just enough to light up the path.</content>
+    <rating>5</rating>
+    <is_spam>false</is_spam>
+    <is_deleted>false</is_deleted>
+    <product_ids>
+      <sku>FN662-01B</sku>
+      <brand>FlyAchilles</brand>
+    </product_ids>
+  </entry>
+  <entry>
+    <review_id>review-57</review_id>
+    <reviewer>
+      <name>Deanmas</name>
+    </reviewer>
+    <review_timestamp>2024-11-30T11:11:44Z</review_timestamp>
+    <title>Working just fine</title>
+    <content>I put these around under the tree, they come on every evening! Very pretty soft light, working just fine so far!</content>
+    <rating>5</rating>
+    <is_spam>false</is_spam>
+    <is_deleted>false</is_deleted>
+    <product_ids>
+      <sku>OD2061-01</sku>
+      <brand>FlyAchilles</brand>
+    </product_ids>
+  </entry>
+  <entry>
+    <review_id>review-58</review_id>
+    <reviewer>
+      <name>Alice</name>
+    </reviewer>
+    <review_timestamp>2024-11-30T11:18:05Z</review_timestamp>
+    <title>Very pretty</title>
+    <content>It's electric as advertised, and the butterfly's wings move up and down. It has a plug so I can move it around. Looking forward to seeing it in action at next week's event, I'm sure it will work well.</content>
+    <rating>5</rating>
+    <is_spam>false</is_spam>
+    <is_deleted>false</is_deleted>
+    <product_ids>
+      <sku>WD1002-01</sku>
+      <brand>FlyAchilles</brand>
+    </product_ids>
+  </entry>
+  <entry>
+    <review_id>review-59</review_id>
+    <reviewer>
+      <name>Salykell</name>
+    </reviewer>
+    <review_timestamp>2024-12-10T11:14:06Z</review_timestamp>
+    <title>Just perfect!</title>
+    <content>I like the light a lot it gets very bright. The size I got was middle one. Just perfect!</content>
+    <rating>5</rating>
+    <is_spam>false</is_spam>
+    <is_deleted>false</is_deleted>
+    <product_ids>
+      <sku>BJ2097-06</sku>
+      <brand>FlyAchilles</brand>
+    </product_ids>
+  </entry>
+  <entry>
+    <review_id>review-60</review_id>
+    <reviewer>
+      <name>Drigues</name>
+    </reviewer>
+    <review_timestamp>2024-12-11T08:30:19Z</review_timestamp>
+    <title>GREAT COMPANY</title>
+    <content>No comment</content>
+    <rating>5</rating>
+    <is_spam>false</is_spam>
+    <is_deleted>false</is_deleted>
+    <product_ids>
+      <sku>BJ1501-01</sku>
+      <brand>FlyAchilles</brand>
+    </product_ids>
+  </entry>
+  <entry>
+    <review_id>review-61</review_id>
+    <reviewer>
+      <name>Daniss</name>
+    </reviewer>
+    <review_timestamp>2024-12-11T08:45:04Z</review_timestamp>
+    <title>Responded in fantastic time</title>
+    <content>What a delightful company. Customer Service responded in fantastic time.  While I love the lights, the thing that impresses me most is their Customer Service.</content>
+    <rating>5</rating>
+    <is_spam>false</is_spam>
+    <is_deleted>false</is_deleted>
+    <product_ids>
+      <sku>OD2068-01</sku>
+      <brand>FlyAchilles</brand>
+    </product_ids>
+  </entry>
+  <entry>
+    <review_id>review-62</review_id>
+    <reviewer>
+      <name>Alex</name>
+    </reviewer>
+    <review_timestamp>2024-12-11T08:56:10Z</review_timestamp>
+    <title>Working great</title>
+    <content>I bought two and they are both working great with no issues.</content>
+    <rating>5</rating>
+    <is_spam>false</is_spam>
+    <is_deleted>false</is_deleted>
+    <product_ids>
+      <sku>OD1023-02</sku>
+      <brand>FlyAchilles</brand>
+    </product_ids>
+  </entry>
+  <entry>
+    <review_id>review-63</review_id>
+    <reviewer>
+      <name>Ailmar</name>
+    </reviewer>
+    <review_timestamp>2024-12-11T09:51:15Z</review_timestamp>
+    <title>Nice lights</title>
+    <content>Very nice lights for the price. Installation was easy.</content>
+    <rating>5</rating>
+    <is_spam>false</is_spam>
+    <is_deleted>false</is_deleted>
+    <product_ids>
+      <sku>FN3158-01B</sku>
+      <brand>FlyAchilles</brand>
+    </product_ids>
+  </entry>
+  <entry>
+    <review_id>review-64</review_id>
+    <reviewer>
+      <name>Luly</name>
+    </reviewer>
+    <review_timestamp>2024-12-11T10:04:09Z</review_timestamp>
+    <title>Looks Great</title>
+    <content>The  is a fantastic addition to my outdoor space! Blending seamlessly with my garden and patio dor.</content>
+    <rating>4</rating>
+    <is_spam>false</is_spam>
+    <is_deleted>false</is_deleted>
+    <product_ids>
+      <sku>OD2020-04</sku>
+      <brand>FlyAchilles</brand>
+    </product_ids>
+  </entry>
+  <entry>
+    <review_id>review-65</review_id>
+    <reviewer>
+      <name>Seedy</name>
+    </reviewer>
+    <review_timestamp>2024-12-11T10:35:59Z</review_timestamp>
+    <title>Good quality</title>
+    <content>It lights up the deck enough without being too bright; just the right mood. Been using it for a while and it is holding up very well.</content>
+    <rating>5</rating>
+    <is_spam>false</is_spam>
+    <is_deleted>false</is_deleted>
+    <product_ids>
+      <sku>OD2023-10</sku>
+      <brand>FlyAchilles</brand>
+    </product_ids>
+  </entry>
+  <entry>
+    <review_id>review-66</review_id>
+    <reviewer>
+      <name>Fatima Saadeldin</name>
+    </reviewer>
+    <review_timestamp>2024-12-11T22:31:38Z</review_timestamp>
+    <title>Amazing</title>
+    <content>Look very nice</content>
+    <rating>5</rating>
+    <is_spam>false</is_spam>
+    <is_deleted>false</is_deleted>
+    <product_ids>
+      <sku>GH102185-29B</sku>
+      <brand>FlyAchilles</brand>
+    </product_ids>
+  </entry>
+  <entry>
+    <review_id>review-67</review_id>
+    <reviewer>
+      <name>Luscam</name>
+    </reviewer>
+    <review_timestamp>2024-12-13T11:24:19Z</review_timestamp>
+    <title>Look awesome</title>
+    <content>Easy to install and boy do they look awesome. Lots of comments from neighbors.</content>
+    <rating>5</rating>
+    <is_spam>false</is_spam>
+    <is_deleted>false</is_deleted>
+    <product_ids>
+      <sku>BJ2016-07</sku>
+      <brand>FlyAchilles</brand>
+    </product_ids>
+  </entry>
+  <entry>
+    <review_id>review-68</review_id>
+    <reviewer>
+      <name>Diane</name>
+    </reviewer>
+    <review_timestamp>2024-12-14T09:52:48Z</review_timestamp>
+    <title>It's amazing</title>
+    <content>I'm sure this is exactly what I've been looking for. It's amazing. We wanted a waterproof outdoor crystal chandelier for our event, and this fits perfectly. Can't wait to see how it sparkles at night!</content>
+    <rating>5</rating>
+    <is_spam>false</is_spam>
+    <is_deleted>false</is_deleted>
+    <product_ids>
+      <sku>WD1001-25</sku>
+      <brand>FlyAchilles</brand>
+    </product_ids>
+  </entry>
+  <entry>
+    <review_id>review-69</review_id>
+    <reviewer>
+      <name>Elizabes</name>
+    </reviewer>
+    <review_timestamp>2024-12-14T10:02:01Z</review_timestamp>
+    <title>I痩l order again</title>
+    <content>We waited four weeks to receive it, but I have to say it was totally worth the wait. The quality is amazing, and I痩l definitely order again.</content>
+    <rating>5</rating>
+    <is_spam>false</is_spam>
+    <is_deleted>false</is_deleted>
+    <product_ids>
+      <sku>WD1001-04*2</sku>
+      <brand>FlyAchilles</brand>
+    </product_ids>
+  </entry>
+  <entry>
+    <review_id>review-70</review_id>
+    <reviewer>
+      <name>LL. Cazarin</name>
+    </reviewer>
+    <review_timestamp>2024-12-14T10:09:03Z</review_timestamp>
+    <title>Perfect</title>
+    <content>It's sturdy and not fragile at all</content>
+    <rating>5</rating>
+    <is_spam>false</is_spam>
+    <is_deleted>false</is_deleted>
+    <product_ids>
+      <sku>DJ1002-02</sku>
+      <brand>FlyAchilles</brand>
+    </product_ids>
+  </entry>
+  <entry>
+    <review_id>review-71</review_id>
+    <reviewer>
+      <name>Mich. L</name>
+    </reviewer>
+    <review_timestamp>2024-12-16T03:25:28Z</review_timestamp>
+    <title>Perfect</title>
+    <content>We love these! perfect for our modern barn!!</content>
+    <rating>4</rating>
+    <is_spam>false</is_spam>
+    <is_deleted>false</is_deleted>
+    <product_ids>
+      <sku>FN2843-01B</sku>
+      <brand>FlyAchilles</brand>
+    </product_ids>
+  </entry>
+  <entry>
+    <review_id>review-72</review_id>
+    <reviewer>
+      <name>sabin</name>
+    </reviewer>
+    <review_timestamp>2024-12-16T03:28:03Z</review_timestamp>
+    <title>Great buy</title>
+    <content>Love trying the different ways to set the lighting.</content>
+    <rating>5</rating>
+    <is_spam>false</is_spam>
+    <is_deleted>false</is_deleted>
+    <product_ids>
+      <sku>FN2175-01B</sku>
+      <brand>FlyAchilles</brand>
+    </product_ids>
+  </entry>
+  <entry>
+    <review_id>review-73</review_id>
+    <reviewer>
+      <name>Elizabeth</name>
+    </reviewer>
+    <review_timestamp>2024-12-16T10:55:25Z</review_timestamp>
+    <title>Perfect</title>
+    <content>It goes perfectly with the exterior walls of my house. Absolutely flawless!</content>
+    <rating>5</rating>
+    <is_spam>false</is_spam>
+    <is_deleted>false</is_deleted>
+    <product_ids>
+      <sku>FN3568-01B</sku>
+      <brand>FlyAchilles</brand>
+    </product_ids>
+  </entry>
+  <entry>
+    <review_id>review-74</review_id>
+    <reviewer>
+      <name>Alex Osbo</name>
+    </reviewer>
+    <review_timestamp>2024-12-16T11:01:29Z</review_timestamp>
+    <title>Like this style</title>
+    <content>I like this style, the brightness is just right</content>
+    <rating>5</rating>
+    <is_spam>false</is_spam>
+    <is_deleted>false</is_deleted>
+    <product_ids>
+      <sku>DJ8346-01</sku>
+      <brand>FlyAchilles</brand>
+    </product_ids>
+  </entry>
+  <entry>
+    <review_id>review-75</review_id>
+    <reviewer>
+      <name>Taylor Nova</name>
+    </reviewer>
+    <review_timestamp>2024-12-16T11:06:30Z</review_timestamp>
+    <title>Responded quickly</title>
+    <content>They responded quickly,  and solved my 24-step staircase lighting cutting and installation problem perfectly.</content>
+    <rating>5</rating>
+    <is_spam>false</is_spam>
+    <is_deleted>false</is_deleted>
+    <product_ids>
+      <sku>FN3365-01B</sku>
+      <brand>FlyAchilles</brand>
+    </product_ids>
+  </entry>
+  <entry>
+    <review_id>review-76</review_id>
+    <reviewer>
+      <name>Anna Alarc</name>
+    </reviewer>
+    <review_timestamp>2024-12-18T09:41:53Z</review_timestamp>
+    <title>Good nice</title>
+    <content>Absolutely stunning wall lamp! The moon detail is so realistic, Worth every penny!</content>
+    <rating>5</rating>
+    <is_spam>false</is_spam>
+    <is_deleted>false</is_deleted>
+    <product_ids>
+      <sku>OD2026-01</sku>
+      <brand>FlyAchilles</brand>
+    </product_ids>
+  </entry>
+  <entry>
+    <review_id>review-77</review_id>
+    <reviewer>
+      <name>Michelle Howison</name>
+    </reviewer>
+    <review_timestamp>2024-12-21T12:59:13Z</review_timestamp>
+    <title>Absolutely Love!</title>
+    <content>The solar aspect to these lights solve so many issues of getting wiring through brick! Beautiful,  well designed.</content>
+    <rating>5</rating>
+    <is_spam>false</is_spam>
+    <is_deleted>false</is_deleted>
+    <product_ids>
+      <sku>FN667-01B</sku>
+      <brand>FlyAchilles</brand>
+    </product_ids>
+  </entry>
+  <entry>
+    <review_id>review-78</review_id>
+    <reviewer>
+      <name>Crystalfern</name>
+    </reviewer>
+    <review_timestamp>2024-12-26T04:17:03Z</review_timestamp>
+    <title>Very versatile</title>
+    <content>I have purchased a ton of LED strip lights in the past and they are the best of the best. Time will tell how long they last, plenty of cord between the panel and lights.</content>
+    <rating>4</rating>
+    <is_spam>false</is_spam>
+    <is_deleted>false</is_deleted>
+    <product_ids>
+      <sku>RD1001-01</sku>
+      <brand>FlyAchilles</brand>
+    </product_ids>
+  </entry>
+  <entry>
+    <review_id>review-79</review_id>
+    <reviewer>
+      <name>Keybee</name>
+    </reviewer>
+    <review_timestamp>2024-12-26T10:27:25Z</review_timestamp>
+    <title>Looks great!</title>
+    <content>Love it that it's so bright. Brightens my house facade.</content>
+    <rating>5</rating>
+    <is_spam>false</is_spam>
+    <is_deleted>false</is_deleted>
+    <product_ids>
+      <sku>GH101133-04B</sku>
+      <brand>FlyAchilles</brand>
+    </product_ids>
+  </entry>
+  <entry>
+    <review_id>review-80</review_id>
+    <reviewer>
+      <name>Blaze</name>
+    </reviewer>
+    <review_timestamp>2024-12-26T10:49:43Z</review_timestamp>
+    <title>Awesome!</title>
+    <content>Perfect size perfect brightness, can be used with solar batteries for hardwired. They are great and the price is perfect!</content>
+    <rating>5</rating>
+    <is_spam>false</is_spam>
+    <is_deleted>false</is_deleted>
+    <product_ids>
+      <sku>RD1001-01</sku>
+      <brand>FlyAchilles</brand>
+    </product_ids>
+  </entry>
+  <entry>
+    <review_id>review-81</review_id>
+    <reviewer>
+      <name>Mark H</name>
+    </reviewer>
+    <review_timestamp>2024-12-26T10:55:16Z</review_timestamp>
+    <title>Easy to install</title>
+    <content>They are brighter than I thought they would be but that痵 fine with me. Easy to install with the right tools.</content>
+    <rating>5</rating>
+    <is_spam>false</is_spam>
+    <is_deleted>false</is_deleted>
+    <product_ids>
+      <sku>FN3363-01B</sku>
+      <brand>FlyAchilles</brand>
+    </product_ids>
+  </entry>
+  <entry>
+    <review_id>review-82</review_id>
+    <reviewer>
+      <name>Sun Shah</name>
+    </reviewer>
+    <review_timestamp>2025-01-02T04:00:47Z</review_timestamp>
+    <title>Like this chandelier</title>
+    <content>It is very large, very bright and dimmable.  It is adjustable, so we could raise and lower the different pieces as desired. That's what we needed. Very happy.</content>
+    <rating>5</rating>
+    <is_spam>false</is_spam>
+    <is_deleted>false</is_deleted>
+    <product_ids>
+      <sku>GH94969-01B</sku>
+      <brand>FlyAchilles</brand>
+    </product_ids>
+  </entry>
+  <entry>
+    <review_id>review-83</review_id>
+    <reviewer>
+      <name>Many</name>
+    </reviewer>
+    <review_timestamp>2025-01-02T10:03:42Z</review_timestamp>
+    <title>Looks great</title>
+    <content>So many compliments from my neighbors &amp; friends. This hangs in the middle of my stairs and looks great.</content>
+    <rating>5</rating>
+    <is_spam>false</is_spam>
+    <is_deleted>false</is_deleted>
+    <product_ids>
+      <sku>GH95019-01B</sku>
+      <brand>FlyAchilles</brand>
+    </product_ids>
+  </entry>
+  <entry>
+    <review_id>review-84</review_id>
+    <reviewer>
+      <name>Frank</name>
+    </reviewer>
+    <review_timestamp>2025-01-02T10:11:41Z</review_timestamp>
+    <title>Lantern</title>
+    <content>My wife loves the lantern!</content>
+    <rating>5</rating>
+    <is_spam>false</is_spam>
+    <is_deleted>false</is_deleted>
+    <product_ids>
+      <sku>OD2090-01</sku>
+      <brand>FlyAchilles</brand>
+    </product_ids>
+  </entry>
+  <entry>
+    <review_id>review-85</review_id>
+    <reviewer>
+      <name>Aarle Bailey</name>
+    </reviewer>
+    <review_timestamp>2025-01-02T10:54:30Z</review_timestamp>
+    <title>Excellent effect</title>
+    <content>This is the best solution I could find, a completely waterproof low voltage ultra mini light strip, it hides really well, my front door is no longer dark.</content>
+    <rating>5</rating>
+    <is_spam>false</is_spam>
+    <is_deleted>false</is_deleted>
+    <product_ids>
+      <sku>RD1001-01</sku>
+      <brand>FlyAchilles</brand>
+    </product_ids>
+  </entry>
+  <entry>
+    <review_id>review-86</review_id>
+    <reviewer>
+      <name>Jacorga</name>
+    </reviewer>
+    <review_timestamp>2025-01-03T10:45:05Z</review_timestamp>
+    <title>Good quality</title>
+    <content>Very good quality, I will buy again.</content>
+    <rating>5</rating>
+    <is_spam>false</is_spam>
+    <is_deleted>false</is_deleted>
+    <product_ids>
+      <sku>BJ2112-01</sku>
+      <brand>FlyAchilles</brand>
+    </product_ids>
+  </entry>
+  <entry>
+    <review_id>review-87</review_id>
+    <reviewer>
+      <name>Calle</name>
+    </reviewer>
+    <review_timestamp>2025-01-03T10:54:22Z</review_timestamp>
+    <title>looks great</title>
+    <content>I wasn痶 sure what to expect with these. But, they transformed our space! Added needed light and looks great!</content>
+    <rating>5</rating>
+    <is_spam>false</is_spam>
+    <is_deleted>false</is_deleted>
+    <product_ids>
+      <sku>OD1010-05</sku>
+      <brand>FlyAchilles</brand>
+    </product_ids>
+  </entry>
+  <entry>
+    <review_id>review-88</review_id>
+    <reviewer>
+      <name> Hneal Godd</name>
+    </reviewer>
+    <review_timestamp>2025-01-03T11:02:37Z</review_timestamp>
+    <title>Change the angle of light projected</title>
+    <content>I love these lights. Super easy to install and look great. They give a warm evening light against a white ceiling with the option to change the angle of light projected.</content>
+    <rating>5</rating>
+    <is_spam>false</is_spam>
+    <is_deleted>false</is_deleted>
+    <product_ids>
+      <sku>DJ2016-01</sku>
+      <brand>FlyAchilles</brand>
+    </product_ids>
+  </entry>
+  <entry>
+    <review_id>review-89</review_id>
+    <reviewer>
+      <name>Jeffyma</name>
+    </reviewer>
+    <review_timestamp>2025-01-09T04:06:24Z</review_timestamp>
+    <title>Best lights</title>
+    <content>These lights are the best, we wanted a change from the normal outside lights.</content>
+    <rating>5</rating>
+    <is_spam>false</is_spam>
+    <is_deleted>false</is_deleted>
+    <product_ids>
+      <sku>BJ2100-08</sku>
+      <brand>FlyAchilles</brand>
+    </product_ids>
+  </entry>
+  <entry>
+    <review_id>review-90</review_id>
+    <reviewer>
+      <name>Nancy Fraser</name>
+    </reviewer>
+    <review_timestamp>2025-01-09T10:30:44Z</review_timestamp>
+    <title>Review</title>
+    <content>This is the best product I have ever purchased on the internet, bar none  </content>
+    <rating>5</rating>
+    <is_spam>false</is_spam>
+    <is_deleted>false</is_deleted>
+    <product_ids>
+      <sku>FN3299-04B</sku>
+      <brand>FlyAchilles</brand>
+    </product_ids>
+  </entry>
+  <entry>
+    <review_id>review-91</review_id>
+    <reviewer>
+      <name>Eliches</name>
+    </reviewer>
+    <review_timestamp>2025-01-09T11:10:36Z</review_timestamp>
+    <title>Very good quality</title>
+    <content>We like that it has solar panels on three sides, it gives it more range so it stays lit longer at night. Very good quality.</content>
+    <rating>5</rating>
+    <is_spam>false</is_spam>
+    <is_deleted>false</is_deleted>
+    <product_ids>
+      <sku>BJ2041-01</sku>
+      <brand>FlyAchilles</brand>
+    </product_ids>
+  </entry>
+  <entry>
+    <review_id>review-92</review_id>
+    <reviewer>
+      <name>Caroline Thompson</name>
+    </reviewer>
+    <review_timestamp>2025-01-13T23:03:41Z</review_timestamp>
+    <title>Great lamps</title>
+    <content>These are easy to use and set up. The light is bright and does the trick!</content>
+    <rating>5</rating>
+    <is_spam>false</is_spam>
+    <is_deleted>false</is_deleted>
+    <product_ids>
+      <sku>FN2590-01B</sku>
+      <brand>FlyAchilles</brand>
+    </product_ids>
+  </entry>
+  <entry>
+    <review_id>review-93</review_id>
+    <reviewer>
+      <name>Wendy Friedman</name>
+    </reviewer>
+    <review_timestamp>2025-01-15T16:05:03Z</review_timestamp>
+    <title>Amazing company to order from!</title>
+    <content>No comment</content>
+    <rating>5</rating>
+    <is_spam>false</is_spam>
+    <is_deleted>false</is_deleted>
+    <product_ids>
+      <sku>0</sku>
+      <brand>FlyAchilles</brand>
+    </product_ids>
+  </entry>
+  <entry>
+    <review_id>review-94</review_id>
+    <reviewer>
+      <name>JD</name>
+    </reviewer>
+    <review_timestamp>2025-01-17T02:57:56Z</review_timestamp>
+    <title>High Quality</title>
+    <content>Amazing!
+I can't wait to see these in my backyard through the seasons. The more branches your tree has, the better the effect. I feel like I'm looking at a giant blacklight poster.</content>
+    <rating>5</rating>
+    <is_spam>false</is_spam>
+    <is_deleted>false</is_deleted>
+    <product_ids>
+      <sku>OD2096-01</sku>
+      <brand>FlyAchilles</brand>
+    </product_ids>
+  </entry>
+  <entry>
+    <review_id>review-95</review_id>
+    <reviewer>
+      <name>JLW</name>
+    </reviewer>
+    <review_timestamp>2025-01-29T01:34:32Z</review_timestamp>
+    <title>Great customer service</title>
+    <content>We had a problem with one of the lights and replacements were sent right away. Thanks so much!</content>
+    <rating>5</rating>
+    <is_spam>false</is_spam>
+    <is_deleted>false</is_deleted>
+    <product_ids>
+      <sku>FN611-01B</sku>
+      <brand>FlyAchilles</brand>
+    </product_ids>
+  </entry>
+  <entry>
+    <review_id>review-96</review_id>
+    <reviewer>
+      <name>D.W.</name>
+    </reviewer>
+    <review_timestamp>2024-05-29T05:52:37Z</review_timestamp>
+    <title>Perfect Shopping Experience</title>
+    <content>No comment</content>
+    <rating>5</rating>
+    <is_spam>false</is_spam>
+    <is_deleted>false</is_deleted>
+    <product_ids>
+      <sku>FN693-01B</sku>
+      <brand>FlyAchilles</brand>
+    </product_ids>
+  </entry>
+  <entry>
+    <review_id>review-97</review_id>
+    <reviewer>
+      <name>Kathrin Stein</name>
+    </reviewer>
+    <review_timestamp>2024-08-27T04:05:14Z</review_timestamp>
+    <title>Product that exceeds expectations</title>
+    <content>Perfect price and product, perfect website</content>
+    <rating>5</rating>
+    <is_spam>false</is_spam>
+    <is_deleted>false</is_deleted>
+    <product_ids>
+      <sku>GH107918-01B</sku>
+      <brand>FlyAchilles</brand>
+    </product_ids>
+  </entry>
+  <entry>
+    <review_id>review-98</review_id>
+    <reviewer>
+      <name>Alma</name>
+    </reviewer>
+    <review_timestamp>2024-08-28T09:25:38Z</review_timestamp>
+    <title>OMG really love it?</title>
+    <content>I love this lamp so much　it's the most satisfying thing I've ever bought</content>
+    <rating>5</rating>
+    <is_spam>false</is_spam>
+    <is_deleted>false</is_deleted>
+    <product_ids>
+      <sku>LD1004-01</sku>
+      <brand>FlyAchilles</brand>
+    </product_ids>
+  </entry>
+  <entry>
+    <review_id>review-99</review_id>
+    <reviewer>
+      <name>Richard</name>
+    </reviewer>
+    <review_timestamp>2024-08-28T09:41:32Z</review_timestamp>
+    <title>A pleasant online shopping</title>
+    <content>The delivery was super fast; I only took four days to receive the goods. The brightness was more than enough when actually using it. It was a great shopping experience, and I will definitely come back.</content>
+    <rating>5</rating>
+    <is_spam>false</is_spam>
+    <is_deleted>false</is_deleted>
+    <product_ids>
+      <sku>FN2268-01B</sku>
+      <brand>FlyAchilles</brand>
+    </product_ids>
+  </entry>
+  <entry>
+    <review_id>review-100</review_id>
+    <reviewer>
+      <name>Celestia</name>
+    </reviewer>
+    <review_timestamp>2024-08-28T09:49:46Z</review_timestamp>
+    <title>I bought this for my mom, and she really likes it.</title>
+    <content>Deserves a good review</content>
+    <rating>5</rating>
+    <is_spam>false</is_spam>
+    <is_deleted>false</is_deleted>
+    <product_ids>
+      <sku>DJ8328-01B</sku>
+      <brand>FlyAchilles</brand>
+    </product_ids>
+  </entry>
+  <entry>
+    <review_id>review-101</review_id>
+    <reviewer>
+      <name>Jatidney</name>
+    </reviewer>
+    <review_timestamp>2024-09-03T10:18:35Z</review_timestamp>
+    <title>No issues at all</title>
+    <content>Qaulity is good. They are metal, not plastic. Installed them in the lawn that are alongside my deck. No issues at all.</content>
+    <rating>5</rating>
+    <is_spam>false</is_spam>
+    <is_deleted>false</is_deleted>
+    <product_ids>
+      <sku>OD2062-05</sku>
+      <brand>FlyAchilles</brand>
+    </product_ids>
+  </entry>
+  <entry>
+    <review_id>review-102</review_id>
+    <reviewer>
+      <name>Lilliay</name>
+    </reviewer>
+    <review_timestamp>2024-09-12T03:19:43Z</review_timestamp>
+    <title>Great product</title>
+    <content>Great lighting. sturdy. would highly recommend.</content>
+    <rating>5</rating>
+    <is_spam>false</is_spam>
+    <is_deleted>false</is_deleted>
+    <product_ids>
+      <sku>BJ2016-07</sku>
+      <brand>FlyAchilles</brand>
+    </product_ids>
+  </entry>
+  <entry>
+    <review_id>review-103</review_id>
+    <reviewer>
+      <name>Ric</name>
+    </reviewer>
+    <review_timestamp>2024-09-12T03:52:48Z</review_timestamp>
+    <title>Super bright</title>
+    <content>I needed some sort of lighting on that yard because it was pitch black at night and could be scary late at night. Now, it痵 totally lit and looks nice. Even my husband was impressed.</content>
+    <rating>5</rating>
+    <is_spam>false</is_spam>
+    <is_deleted>false</is_deleted>
+    <product_ids>
+      <sku>BJ2046-01</sku>
+      <brand>FlyAchilles</brand>
+    </product_ids>
+  </entry>
+  <entry>
+    <review_id>review-104</review_id>
+    <reviewer>
+      <name>Shdfy</name>
+    </reviewer>
+    <review_timestamp>2024-09-12T04:05:35Z</review_timestamp>
+    <title>Amazing!</title>
+    <content>I opted for expedited shipping and received it really fast. I was worried it wouldn't arrive before my event, but it actually showed up a few days ahead of time猘mazing! Now I don痶 have to stress anymore.</content>
+    <rating>5</rating>
+    <is_spam>false</is_spam>
+    <is_deleted>false</is_deleted>
+    <product_ids>
+      <sku>OD2008-17</sku>
+      <brand>FlyAchilles</brand>
+    </product_ids>
+  </entry>
+  <entry>
+    <review_id>review-105</review_id>
+    <reviewer>
+      <name>Terry.J</name>
+    </reviewer>
+    <review_timestamp>2024-09-24T08:27:33Z</review_timestamp>
+    <title>GOOD</title>
+    <content>I like the way it looks, it looks a lot like the props in Minecraft</content>
+    <rating>5</rating>
+    <is_spam>false</is_spam>
+    <is_deleted>false</is_deleted>
+    <product_ids>
+      <sku>OD2038-01</sku>
+      <brand>FlyAchilles</brand>
+    </product_ids>
+  </entry>
+  <entry>
+    <review_id>review-106</review_id>
+    <reviewer>
+      <name>Taddalla</name>
+    </reviewer>
+    <review_timestamp>2024-09-25T09:33:49Z</review_timestamp>
+    <title>It's ok</title>
+    <content>Brightness is just right, for our backyard and the fence.</content>
+    <rating>5</rating>
+    <is_spam>false</is_spam>
+    <is_deleted>false</is_deleted>
+    <product_ids>
+      <sku>FN3272-03B</sku>
+      <brand>FlyAchilles</brand>
+    </product_ids>
+  </entry>
+  <entry>
+    <review_id>review-107</review_id>
+    <reviewer>
+      <name>Weffer</name>
+    </reviewer>
+    <review_timestamp>2024-09-25T09:54:00Z</review_timestamp>
+    <title>They work</title>
+    <content>I purchased 2 of these. I don痶 need any of the resizing so there is so much waste -it痵 not recyclable here.</content>
+    <rating>5</rating>
+    <is_spam>false</is_spam>
+    <is_deleted>false</is_deleted>
+    <product_ids>
+      <sku>OD3005-05</sku>
+      <brand>FlyAchilles</brand>
+    </product_ids>
+  </entry>
+  <entry>
+    <review_id>review-108</review_id>
+    <reviewer>
+      <name>Teresa</name>
+    </reviewer>
+    <review_timestamp>2024-09-25T10:07:03Z</review_timestamp>
+    <title>Relatively strong</title>
+    <content>My husband is in the middle of installing it, and thankfully, it's not as fragile as I had imagined. When I bought it, I was really worried it might get damaged, which would痸e been such a hassle. I really don痶 like dealing with issues like that.</content>
+    <rating>5</rating>
+    <is_spam>false</is_spam>
+    <is_deleted>false</is_deleted>
+    <product_ids>
+      <sku>OD1020-01</sku>
+      <brand>FlyAchilles</brand>
+    </product_ids>
+  </entry>
+  <entry>
+    <review_id>review-109</review_id>
+    <reviewer>
+      <name>Dino Ciafre</name>
+    </reviewer>
+    <review_timestamp>2024-10-07T22:41:52Z</review_timestamp>
+    <title>Lights</title>
+    <content>We are very happy with the post lights as well as the wall mounted ones. They met our expectations.
+
+Thanks</content>
+    <rating>5</rating>
+    <is_spam>false</is_spam>
+    <is_deleted>false</is_deleted>
+    <product_ids>
+      <sku>FN2268-01B</sku>
+      <brand>FlyAchilles</brand>
+    </product_ids>
+  </entry>
+  <entry>
+    <review_id>review-110</review_id>
+    <reviewer>
+      <name>Jay</name>
+    </reviewer>
+    <review_timestamp>2024-10-08T07:12:22Z</review_timestamp>
+    <title>High quality</title>
+    <content>very sturdy and durable.</content>
+    <rating>5</rating>
+    <is_spam>false</is_spam>
+    <is_deleted>false</is_deleted>
+    <product_ids>
+      <sku>FN2268-01B</sku>
+      <brand>FlyAchilles</brand>
+    </product_ids>
+  </entry>
+  <entry>
+    <review_id>review-111</review_id>
+    <reviewer>
+      <name>JOHN</name>
+    </reviewer>
+    <review_timestamp>2024-10-08T08:19:03Z</review_timestamp>
+    <title>Very good product</title>
+    <content>I like its design very much. The shell is very hard.</content>
+    <rating>5</rating>
+    <is_spam>false</is_spam>
+    <is_deleted>false</is_deleted>
+    <product_ids>
+      <sku>OD2038-01</sku>
+      <brand>FlyAchilles</brand>
+    </product_ids>
+  </entry>
+  <entry>
+    <review_id>review-112</review_id>
+    <reviewer>
+      <name>Ryan</name>
+    </reviewer>
+    <review_timestamp>2024-10-14T07:15:20Z</review_timestamp>
+    <title>This post light is absolutely stunning</title>
+    <content>Perfect lighting effect! If my door columns were a bit larger, the effect would be even better.</content>
+    <rating>5</rating>
+    <is_spam>false</is_spam>
+    <is_deleted>false</is_deleted>
+    <product_ids>
+      <sku>OD2111-01</sku>
+      <brand>FlyAchilles</brand>
+    </product_ids>
+  </entry>
+  <entry>
+    <review_id>review-113</review_id>
+    <reviewer>
+      <name>Matthew</name>
+    </reviewer>
+    <review_timestamp>2024-10-14T07:52:32Z</review_timestamp>
+    <title>Different style</title>
+    <content>The product quality is great, and the delivery speed is very timely. I received the goods in just 5 days.</content>
+    <rating>5</rating>
+    <is_spam>false</is_spam>
+    <is_deleted>false</is_deleted>
+    <product_ids>
+      <sku>FN2804-01B</sku>
+      <brand>FlyAchilles</brand>
+    </product_ids>
+  </entry>
+  <entry>
+    <review_id>review-114</review_id>
+    <reviewer>
+      <name>Remins</name>
+    </reviewer>
+    <review_timestamp>2024-10-14T11:05:54Z</review_timestamp>
+    <title>Quality is great</title>
+    <content>The quality is great, and the material is heavy aluminum猲ot cheap plastic. It痵 actually a bit bigger than I expected.</content>
+    <rating>5</rating>
+    <is_spam>false</is_spam>
+    <is_deleted>false</is_deleted>
+    <product_ids>
+      <sku>BJ2046-01</sku>
+      <brand>FlyAchilles</brand>
+    </product_ids>
+  </entry>
+  <entry>
+    <review_id>review-115</review_id>
+    <reviewer>
+      <name>Lily Kensington Harper</name>
+    </reviewer>
+    <review_timestamp>2024-11-08T03:37:15Z</review_timestamp>
+    <title>The style and vibe are spot on猨ust perfect!</title>
+    <content>The style and vibe are spot on猨ust perfect!</content>
+    <rating>5</rating>
+    <is_spam>false</is_spam>
+    <is_deleted>false</is_deleted>
+    <product_ids>
+      <sku>OD1016-01</sku>
+      <brand>FlyAchilles</brand>
+    </product_ids>
+  </entry>
+  <entry>
+    <review_id>review-116</review_id>
+    <reviewer>
+      <name>John.smith</name>
+    </reviewer>
+    <review_timestamp>2024-11-09T10:36:40Z</review_timestamp>
+    <title>Great!</title>
+    <content>I like it</content>
+    <rating>5</rating>
+    <is_spam>false</is_spam>
+    <is_deleted>false</is_deleted>
+    <product_ids>
+      <sku>BJ2100-08</sku>
+      <brand>FlyAchilles</brand>
+    </product_ids>
+  </entry>
+  <entry>
+    <review_id>review-117</review_id>
+    <reviewer>
+      <name> Mia Shane</name>
+    </reviewer>
+    <review_timestamp>2024-11-11T06:24:33Z</review_timestamp>
+    <title>This is a piece of art.</title>
+    <content>This is a piece of art.</content>
+    <rating>5</rating>
+    <is_spam>false</is_spam>
+    <is_deleted>false</is_deleted>
+    <product_ids>
+      <sku>BJ2075-01</sku>
+      <brand>FlyAchilles</brand>
+    </product_ids>
+  </entry>
+  <entry>
+    <review_id>review-118</review_id>
+    <reviewer>
+      <name>Kristi</name>
+    </reviewer>
+    <review_timestamp>2024-11-13T03:39:32Z</review_timestamp>
+    <title>Beautiful</title>
+    <content>These lights were really easy to set up and look really cool around my deck in the evening when lit. Great ambiance.</content>
+    <rating>5</rating>
+    <is_spam>false</is_spam>
+    <is_deleted>false</is_deleted>
+    <product_ids>
+      <sku>FN3336-01B</sku>
+      <brand>FlyAchilles</brand>
+    </product_ids>
+  </entry>
+  <entry>
+    <review_id>review-119</review_id>
+    <reviewer>
+      <name>Bergeron</name>
+    </reviewer>
+    <review_timestamp>2024-11-13T04:05:54Z</review_timestamp>
+    <title>Quality is excellent</title>
+    <content>No comment</content>
+    <rating>5</rating>
+    <is_spam>false</is_spam>
+    <is_deleted>false</is_deleted>
+    <product_ids>
+      <sku>OD2096-01</sku>
+      <brand>FlyAchilles</brand>
+    </product_ids>
+  </entry>
+  <entry>
+    <review_id>review-120</review_id>
+    <reviewer>
+      <name>Kathryn</name>
+    </reviewer>
+    <review_timestamp>2024-11-30T03:42:18Z</review_timestamp>
+    <title>Great lights!</title>
+    <content>They look very nice and we're easy to install!
+Great buy!</content>
+    <rating>5</rating>
+    <is_spam>false</is_spam>
+    <is_deleted>false</is_deleted>
+    <product_ids>
+      <sku>FN881-01B</sku>
+      <brand>FlyAchilles</brand>
+    </product_ids>
+  </entry>
+  <entry>
+    <review_id>review-121</review_id>
+    <reviewer>
+      <name>Arthur</name>
+    </reviewer>
+    <review_timestamp>2024-12-26T10:00:47Z</review_timestamp>
+    <title>Looks and works great</title>
+    <content>I will not be hard wiring it so I can't speak to that.I wanted to use the Solar feature. Overall happy given the price.</content>
+    <rating>5</rating>
+    <is_spam>false</is_spam>
+    <is_deleted>false</is_deleted>
+    <product_ids>
+      <sku>GH90207-02B</sku>
+      <brand>FlyAchilles</brand>
+    </product_ids>
+  </entry>
+  <entry>
+    <review_id>review-122</review_id>
+    <reviewer>
+      <name>Yambobo</name>
+    </reviewer>
+    <review_timestamp>2024-12-26T10:04:01Z</review_timestamp>
+    <title>Solid Quality</title>
+    <content>I ordered 2 of these. Before I purchase the post lights, I read the reviews. They were very helpful.</content>
+    <rating>5</rating>
+    <is_spam>false</is_spam>
+    <is_deleted>false</is_deleted>
+    <product_ids>
+      <sku>BJ2016-07</sku>
+      <brand>FlyAchilles</brand>
+    </product_ids>
+  </entry>
+  <entry>
+    <review_id>review-123</review_id>
+    <reviewer>
+      <name>Robert Sanchez</name>
+    </reviewer>
+    <review_timestamp>2025-01-08T22:47:56Z</review_timestamp>
+    <title>Modern path lights</title>
+    <content>Great well built product with a modern design.  Has clean lines and looks like a Commerical product. I do wish the lume was brighter though.  Other than that as expected!</content>
+    <rating>4</rating>
+    <is_spam>false</is_spam>
+    <is_deleted>false</is_deleted>
+    <product_ids>
+      <sku>GH101133-04B</sku>
+      <brand>FlyAchilles</brand>
+    </product_ids>
+  </entry>
+  <entry>
+    <review_id>review-124</review_id>
+    <reviewer>
+      <name>Asas Baker</name>
+    </reviewer>
+    <review_timestamp>2025-01-16T12:07:15Z</review_timestamp>
+    <title>Super bright</title>
+    <content>It can light up our front door</content>
+    <rating>5</rating>
+    <is_spam>false</is_spam>
+    <is_deleted>false</is_deleted>
+    <product_ids>
+      <sku>BJ2100-08</sku>
+      <brand>FlyAchilles</brand>
+    </product_ids>
+  </entry>
+  <entry>
+    <review_id>review-125</review_id>
+    <reviewer>
+      <name>Laria</name>
+    </reviewer>
+    <review_timestamp>2025-02-06T08:55:19Z</review_timestamp>
+    <title>Good effects</title>
+    <content>Very practical, very individual, and has good lighting effects.</content>
+    <rating>5</rating>
+    <is_spam>false</is_spam>
+    <is_deleted>false</is_deleted>
+    <product_ids>
+      <sku>BJ2110-01</sku>
+      <brand>FlyAchilles</brand>
+    </product_ids>
+  </entry>
+  <entry>
+    <review_id>review-126</review_id>
+    <reviewer>
+      <name>Sam</name>
+    </reviewer>
+    <review_timestamp>2025-02-06T09:43:28Z</review_timestamp>
+    <title>These lights are perfect</title>
+    <content>These lights are perfect for our garage door, a great choice and will continue to repurchase.</content>
+    <rating>5</rating>
+    <is_spam>false</is_spam>
+    <is_deleted>false</is_deleted>
+    <product_ids>
+      <sku>FN2022-03B</sku>
+      <brand>FlyAchilles</brand>
+    </product_ids>
+  </entry>
+  <entry>
+    <review_id>review-127</review_id>
+    <reviewer>
+      <name>JEFF MARCEAU</name>
+    </reviewer>
+    <review_timestamp>2025-02-07T09:07:28Z</review_timestamp>
+    <title>Accent Lighting</title>
+    <content>I put these in my theater room as accent lights, they look amazing and the quality is excellent</content>
+    <rating>5</rating>
+    <is_spam>false</is_spam>
+    <is_deleted>false</is_deleted>
+    <product_ids>
+      <sku>FN2127-01B</sku>
+      <brand>FlyAchilles</brand>
+    </product_ids>
+  </entry>
+  <entry>
+    <review_id>review-128</review_id>
+    <reviewer>
+      <name>CK</name>
+    </reviewer>
+    <review_timestamp>2025-02-11T04:59:00Z</review_timestamp>
+    <title>Great!</title>
+    <content>No comment</content>
+    <rating>5</rating>
+    <is_spam>false</is_spam>
+    <is_deleted>false</is_deleted>
+    <product_ids>
+      <sku>FN1098-01B</sku>
+      <brand>FlyAchilles</brand>
+    </product_ids>
+  </entry>
+  <entry>
+    <review_id>review-129</review_id>
+    <reviewer>
+      <name>Jeslav Jekov </name>
+    </reviewer>
+    <review_timestamp>2025-02-13T11:04:03Z</review_timestamp>
+    <title>I really like the look of it</title>
+    <content>I really like the look of it. I replaced the light bulb myself. The replacement and installation process was very simple. Excellent website.</content>
+    <rating>5</rating>
+    <is_spam>false</is_spam>
+    <is_deleted>false</is_deleted>
+    <product_ids>
+      <sku>DJ1003-01</sku>
+      <brand>FlyAchilles</brand>
+    </product_ids>
+  </entry>
+  <entry>
+    <review_id>review-130</review_id>
+    <reviewer>
+      <name>dianna eitel</name>
+    </reviewer>
+    <review_timestamp>2025-02-24T21:00:23Z</review_timestamp>
+    <title>Lights</title>
+    <content>These are the coolest lights I痸e ever bought and am so excited to hang them on my new cabin!</content>
+    <rating>5</rating>
+    <is_spam>false</is_spam>
+    <is_deleted>false</is_deleted>
+    <product_ids>
+      <sku>BJ1501-01</sku>
+      <brand>FlyAchilles</brand>
+    </product_ids>
+  </entry>
+  <entry>
+    <review_id>review-131</review_id>
+    <reviewer>
+      <name>George B.</name>
+    </reviewer>
+    <review_timestamp>2025-03-05T09:02:48Z</review_timestamp>
+    <title>Review</title>
+    <content>Looks pretty basic, but man, it really works like a charm. Those solar panels are super efficient at lighting up.</content>
+    <rating>5</rating>
+    <is_spam>false</is_spam>
+    <is_deleted>false</is_deleted>
+    <product_ids>
+      <sku>FN2724-04B</sku>
+      <brand>FlyAchilles</brand>
+    </product_ids>
+  </entry>
+  <entry>
+    <review_id>review-132</review_id>
+    <reviewer>
+      <name>Trace McGee</name>
+    </reviewer>
+    <review_timestamp>2025-03-05T09:09:08Z</review_timestamp>
+    <title>a genius product!</title>
+    <content>It's a perfect combination. I placed it at my doorstep, and it's absolutely eye-catching. What a genius product!</content>
+    <rating>5</rating>
+    <is_spam>false</is_spam>
+    <is_deleted>false</is_deleted>
+    <product_ids>
+      <sku>GH95510-01B</sku>
+      <brand>FlyAchilles</brand>
+    </product_ids>
+  </entry>
+  <entry>
+    <review_id>review-133</review_id>
+    <reviewer>
+      <name>Old Tony</name>
+    </reviewer>
+    <review_timestamp>2025-03-06T10:15:55Z</review_timestamp>
+    <title>How beautiful</title>
+    <content>It's really surprising how vibrant the colors are and how wide the light spreads. The remote control is super responsive too. If only they offered custom lengths, I wouldn't have had to buy three and connect them together.</content>
+    <rating>5</rating>
+    <is_spam>false</is_spam>
+    <is_deleted>false</is_deleted>
+    <product_ids>
+      <sku>OD2082-01</sku>
+      <brand>FlyAchilles</brand>
+    </product_ids>
+  </entry>
+  <entry>
+    <review_id>review-134</review_id>
+    <reviewer>
+      <name>Hannah Walker</name>
+    </reviewer>
+    <review_timestamp>2025-03-06T10:22:14Z</review_timestamp>
+    <title>The ultimate decorative piece</title>
+    <content>The ultimate decorative piece</content>
+    <rating>5</rating>
+    <is_spam>false</is_spam>
+    <is_deleted>false</is_deleted>
+    <product_ids>
+      <sku>BJ2075-01</sku>
+      <brand>FlyAchilles</brand>
+    </product_ids>
+  </entry>
+  <entry>
+    <review_id>review-135</review_id>
+    <reviewer>
+      <name>Peter N.</name>
+    </reviewer>
+    <review_timestamp>2025-03-06T10:33:00Z</review_timestamp>
+    <title>Review</title>
+    <content>Wow, this is truly impressive! The effect is on a whole different level compared to strip lights 瑃his is genuine industrial-grade quality.</content>
+    <rating>5</rating>
+    <is_spam>false</is_spam>
+    <is_deleted>false</is_deleted>
+    <product_ids>
+      <sku>RD1004-01+RD1006-01</sku>
+      <brand>FlyAchilles</brand>
+    </product_ids>
+  </entry>
+  <entry>
+    <review_id>review-136</review_id>
+    <reviewer>
+      <name>Moira Rose</name>
+    </reviewer>
+    <review_timestamp>2025-03-07T08:09:46Z</review_timestamp>
+    <title>Review</title>
+    <content>It's so beautiful, I really like it?</content>
+    <rating>5</rating>
+    <is_spam>false</is_spam>
+    <is_deleted>false</is_deleted>
+    <product_ids>
+      <sku>BJ1502-03</sku>
+      <brand>FlyAchilles</brand>
+    </product_ids>
+  </entry>
+  <entry>
+    <review_id>review-137</review_id>
+    <reviewer>
+      <name>Chandler Li</name>
+    </reviewer>
+    <review_timestamp>2025-03-10T07:52:38Z</review_timestamp>
+    <title>The product quality is superb</title>
+    <content>The product quality is superb, the brightness is impressive, it's easy to install, the design is minimalist, and it works perfectly even in rainy weather.</content>
+    <rating>5</rating>
+    <is_spam>false</is_spam>
+    <is_deleted>false</is_deleted>
+    <product_ids>
+      <sku>FN2533-01B</sku>
+      <brand>FlyAchilles</brand>
+    </product_ids>
+  </entry>
+  <entry>
+    <review_id>review-138</review_id>
+    <reviewer>
+      <name>Curt Smith</name>
+    </reviewer>
+    <review_timestamp>2025-03-11T09:17:58Z</review_timestamp>
+    <title>I highly recommend it　</title>
+    <content>An excellent spotlight, both the material and lighting effect are outstanding. During the purchasing process, the customer service patiently answered all my questions. Thank you very much.</content>
+    <rating>5</rating>
+    <is_spam>false</is_spam>
+    <is_deleted>false</is_deleted>
+    <product_ids>
+      <sku>OD2069-11</sku>
+      <brand>FlyAchilles</brand>
+    </product_ids>
+  </entry>
+  <entry>
+    <review_id>review-139</review_id>
+    <reviewer>
+      <name>Pau A.</name>
+    </reviewer>
+    <review_timestamp>2025-03-14T07:49:02Z</review_timestamp>
+    <title>Great　</title>
+    <content>Installation is simple and very practical. It would be great if there was a solar-powered version.</content>
+    <rating>5</rating>
+    <is_spam>false</is_spam>
+    <is_deleted>false</is_deleted>
+    <product_ids>
+      <sku>FN995-01B</sku>
+      <brand>FlyAchilles</brand>
+    </product_ids>
+  </entry>
+  <entry>
+    <review_id>review-140</review_id>
+    <reviewer>
+      <name>Messi Cui</name>
+    </reviewer>
+    <review_timestamp>2025-03-14T09:09:14Z</review_timestamp>
+    <title>A great light</title>
+    <content>A great light, very convenient to use. You can place it anywhere you need it. Optimize it with an American-style logical approach.</content>
+    <rating>5</rating>
+    <is_spam>false</is_spam>
+    <is_deleted>false</is_deleted>
+    <product_ids>
+      <sku>FN2298-13B</sku>
+      <brand>FlyAchilles</brand>
+    </product_ids>
+  </entry>
+  <entry>
+    <review_id>review-141</review_id>
+    <reviewer>
+      <name>Barbie Clark</name>
+    </reviewer>
+    <review_timestamp>2025-03-14T09:13:49Z</review_timestamp>
+    <title>The lighting is beautiful</title>
+    <content>The lighting is beautiful, and the lamp body is very sturdy. The price is very reasonable, and it was upgraded to express delivery for free. The entire purchasing experience was very pleasant.</content>
+    <rating>5</rating>
+    <is_spam>false</is_spam>
+    <is_deleted>false</is_deleted>
+    <product_ids>
+      <sku>FN2416-01B</sku>
+      <brand>FlyAchilles</brand>
+    </product_ids>
+  </entry>
+  <entry>
+    <review_id>review-142</review_id>
+    <reviewer>
+      <name>DS</name>
+    </reviewer>
+    <review_timestamp>2025-03-14T21:45:33Z</review_timestamp>
+    <title>perfect thanks!</title>
+    <content>Perfect product! Thank you.</content>
+    <rating>5</rating>
+    <is_spam>false</is_spam>
+    <is_deleted>false</is_deleted>
+    <product_ids>
+      <sku>OD2001-04</sku>
+      <brand>FlyAchilles</brand>
+    </product_ids>
+  </entry>
+  <entry>
+    <review_id>review-143</review_id>
+    <reviewer>
+      <name>Ryan Brock</name>
+    </reviewer>
+    <review_timestamp>2025-03-17T03:21:22Z</review_timestamp>
+    <title>Looks Great</title>
+    <content>The light looks beautiful</content>
+    <rating>5</rating>
+    <is_spam>false</is_spam>
+    <is_deleted>false</is_deleted>
+    <product_ids>
+      <sku>FN2852-04B</sku>
+      <brand>FlyAchilles</brand>
+    </product_ids>
+  </entry>
+  <entry>
+    <review_id>review-144</review_id>
+    <reviewer>
+      <name>Lina Bleeg</name>
+    </reviewer>
+    <review_timestamp>2025-03-17T03:29:23Z</review_timestamp>
+    <title>Fairly Easy Install</title>
+    <content>I had my neighbor in law install this for us and he had no issues. The instructions were straightforward and it come with everything needed to install.</content>
+    <rating>5</rating>
+    <is_spam>false</is_spam>
+    <is_deleted>false</is_deleted>
+    <product_ids>
+      <sku>DJ8325B-01</sku>
+      <brand>FlyAchilles</brand>
+    </product_ids>
+  </entry>
+  <entry>
+    <review_id>review-145</review_id>
+    <reviewer>
+      <name>Kimmie</name>
+    </reviewer>
+    <review_timestamp>2025-03-17T03:40:59Z</review_timestamp>
+    <title>High quality and attractive!</title>
+    <content>I ordered this vertical light to mark the entrance to my new building, and I couldn't be happier. The finish is even and durable, with a nice reflective sparkle (see photos).</content>
+    <rating>5</rating>
+    <is_spam>false</is_spam>
+    <is_deleted>false</is_deleted>
+    <product_ids>
+      <sku>FN3007-01B</sku>
+      <brand>FlyAchilles</brand>
+    </product_ids>
+  </entry>
+  <entry>
+    <review_id>review-146</review_id>
+    <reviewer>
+      <name>Melissa T</name>
+    </reviewer>
+    <review_timestamp>2025-03-18T19:47:57Z</review_timestamp>
+    <title>Beautiful lanterns</title>
+    <content>Love these little lanterns! Great battery life猘ccidentally left them on all night and they were still on in the morning. So pretty and create great ambience.</content>
+    <rating>4</rating>
+    <is_spam>false</is_spam>
+    <is_deleted>false</is_deleted>
+    <product_ids>
+      <sku>GH91091-01B</sku>
+      <brand>FlyAchilles</brand>
+    </product_ids>
+  </entry>
+  <entry>
+    <review_id>review-147</review_id>
+    <reviewer>
+      <name>DS</name>
+    </reviewer>
+    <review_timestamp>2025-03-19T21:40:27Z</review_timestamp>
+    <title>Still waiting but cannot wait!</title>
+    <content>Still waiting but great customer service so far!</content>
+    <rating>5</rating>
+    <is_spam>false</is_spam>
+    <is_deleted>false</is_deleted>
+    <product_ids>
+      <sku>RD1011-01</sku>
+      <brand>FlyAchilles</brand>
+    </product_ids>
+  </entry>
+  <entry>
+    <review_id>review-148</review_id>
+    <reviewer>
+      <name>George P.</name>
+    </reviewer>
+    <review_timestamp>2025-03-20T10:29:36Z</review_timestamp>
+    <title>Great</title>
+    <content>It doesn't need to be installed at all. You can use it right after disassembling it. The luminous efficiency is excellent, and it's super practical.</content>
+    <rating>5</rating>
+    <is_spam>false</is_spam>
+    <is_deleted>false</is_deleted>
+    <product_ids>
+      <sku>GH88060-01B</sku>
+      <brand>FlyAchilles</brand>
+    </product_ids>
+  </entry>
+  <entry>
+    <review_id>review-149</review_id>
+    <reviewer>
+      <name>Kawhi H. </name>
+    </reviewer>
+    <review_timestamp>2025-03-20T10:32:08Z</review_timestamp>
+    <title>Review</title>
+    <content>It looks very impressive, and the delivery was quick. It's bigger and heavier than I expected, a perfect light.</content>
+    <rating>5</rating>
+    <is_spam>false</is_spam>
+    <is_deleted>false</is_deleted>
+    <product_ids>
+      <sku>FN3118-02B</sku>
+      <brand>FlyAchilles</brand>
+    </product_ids>
+  </entry>
+  <entry>
+    <review_id>review-150</review_id>
+    <reviewer>
+      <name>Jim R.</name>
+    </reviewer>
+    <review_timestamp>2025-03-25T07:06:42Z</review_timestamp>
+    <title>Very good quality</title>
+    <content>Very good quality, as long as you live in a sunny place, he is very suitable</content>
+    <rating>5</rating>
+    <is_spam>false</is_spam>
+    <is_deleted>false</is_deleted>
+    <product_ids>
+      <sku>BJ2180-02</sku>
+      <brand>FlyAchilles</brand>
+    </product_ids>
+  </entry>
+  <entry>
+    <review_id>review-151</review_id>
+    <reviewer>
+      <name>Martin N.</name>
+    </reviewer>
+    <review_timestamp>2025-03-25T07:09:30Z</review_timestamp>
+    <title>Good quality and cheap</title>
+    <content>Good quality and cheap, bright enough but not glaring, very good?</content>
+    <rating>5</rating>
+    <is_spam>false</is_spam>
+    <is_deleted>false</is_deleted>
+    <product_ids>
+      <sku>RD1050-01</sku>
+      <brand>FlyAchilles</brand>
+    </product_ids>
+  </entry>
+  <entry>
+    <review_id>review-152</review_id>
+    <reviewer>
+      <name>Uresh Patel</name>
+    </reviewer>
+    <review_timestamp>2025-03-28T19:49:14Z</review_timestamp>
+    <title>Recieved and Installed</title>
+    <content>Very happy with the product</content>
+    <rating>5</rating>
+    <is_spam>false</is_spam>
+    <is_deleted>false</is_deleted>
+    <product_ids>
+      <sku>GH94604-01B</sku>
+      <brand>FlyAchilles</brand>
+    </product_ids>
+  </entry>
+  <entry>
+    <review_id>review-153</review_id>
+    <reviewer>
+      <name>Chris Rey</name>
+    </reviewer>
+    <review_timestamp>2025-03-31T03:21:46Z</review_timestamp>
+    <title>Strong material</title>
+    <content>The lights are excellent; beautifully made, sturdy, should last a long time.</content>
+    <rating>5</rating>
+    <is_spam>false</is_spam>
+    <is_deleted>false</is_deleted>
+    <product_ids>
+      <sku>FN897-01B</sku>
+      <brand>FlyAchilles</brand>
+    </product_ids>
+  </entry>
+  <entry>
+    <review_id>review-154</review_id>
+    <reviewer>
+      <name>W Hough</name>
+    </reviewer>
+    <review_timestamp>2025-03-31T03:34:35Z</review_timestamp>
+    <title>Quality lighting</title>
+    <content>Really liked the outcome of how the lights worked, adjusted the lights to aim more at trees not at house, should have installed them a little closer to the trees, will maybee do that in future, or if wife keeps insisting. Great value and quality lighting.</content>
+    <rating>5</rating>
+    <is_spam>false</is_spam>
+    <is_deleted>false</is_deleted>
+    <product_ids>
+      <sku>OD2055-05</sku>
+      <brand>FlyAchilles</brand>
+    </product_ids>
+  </entry>
+  <entry>
+    <review_id>review-155</review_id>
+    <reviewer>
+      <name>Jennifer</name>
+    </reviewer>
+    <review_timestamp>2025-03-31T04:08:04Z</review_timestamp>
+    <title>look great for the wall</title>
+    <content>They were packaged nicely. The lights look great for the wall, they are perfect size. They really make the front porch and back look better.</content>
+    <rating>5</rating>
+    <is_spam>false</is_spam>
+    <is_deleted>false</is_deleted>
+    <product_ids>
+      <sku>BJ1502-03</sku>
+      <brand>FlyAchilles</brand>
+    </product_ids>
+  </entry>
+  <entry>
+    <review_id>review-156</review_id>
+    <reviewer>
+      <name>David H</name>
+    </reviewer>
+    <review_timestamp>2025-03-31T04:11:44Z</review_timestamp>
+    <title>Nice</title>
+    <content>The wall light provides a great amount of ambient light. My husband is an electrician and very hard to impress when it comes to lighting fixtures and even he really liked this thing.</content>
+    <rating>5</rating>
+    <is_spam>false</is_spam>
+    <is_deleted>false</is_deleted>
+    <product_ids>
+      <sku>OD2068-01</sku>
+      <brand>FlyAchilles</brand>
+    </product_ids>
+  </entry>
+  <entry>
+    <review_id>review-157</review_id>
+    <reviewer>
+      <name>Franco Callocchia</name>
+    </reviewer>
+    <review_timestamp>2025-03-31T17:32:12Z</review_timestamp>
+    <title>Good product</title>
+    <content>No comment</content>
+    <rating>5</rating>
+    <is_spam>false</is_spam>
+    <is_deleted>false</is_deleted>
+    <product_ids>
+      <sku>OD2014-07</sku>
+      <brand>FlyAchilles</brand>
+    </product_ids>
+  </entry>
+  <entry>
+    <review_id>review-158</review_id>
+    <reviewer>
+      <name>Angela</name>
+    </reviewer>
+    <review_timestamp>2025-04-01T03:47:55Z</review_timestamp>
+    <title>Good quality</title>
+    <content>The quality is very good, heavier than expected, no problem in harsh environments. It also comes with a remote control that can change colors, which is exactly what I need, nice!</content>
+    <rating>5</rating>
+    <is_spam>false</is_spam>
+    <is_deleted>false</is_deleted>
+    <product_ids>
+      <sku>RD1034-01</sku>
+      <brand>FlyAchilles</brand>
+    </product_ids>
+  </entry>
+  <entry>
+    <review_id>review-159</review_id>
+    <reviewer>
+      <name>Charles Perrow</name>
+    </reviewer>
+    <review_timestamp>2025-04-02T09:28:07Z</review_timestamp>
+    <title>Review</title>
+    <content>A very modern-looking light with great quality for this price range.</content>
+    <rating>4</rating>
+    <is_spam>false</is_spam>
+    <is_deleted>false</is_deleted>
+    <product_ids>
+      <sku>DJ2169-01</sku>
+      <brand>FlyAchilles</brand>
+    </product_ids>
+  </entry>
+  <entry>
+    <review_id>review-160</review_id>
+    <reviewer>
+      <name>Sabina Asante</name>
+    </reviewer>
+    <review_timestamp>2025-04-04T20:54:46Z</review_timestamp>
+    <title>Beautiful Piece</title>
+    <content>its very nice, I wish it looked as lovely as the pic but its very nice</content>
+    <rating>4</rating>
+    <is_spam>false</is_spam>
+    <is_deleted>false</is_deleted>
+    <product_ids>
+      <sku>GH88242-01B</sku>
+      <brand>FlyAchilles</brand>
+    </product_ids>
+  </entry>
+  <entry>
+    <review_id>review-161</review_id>
+    <reviewer>
+      <name>Frances Helmkay</name>
+    </reviewer>
+    <review_timestamp>2025-04-09T03:15:36Z</review_timestamp>
+    <title>Nice wall accent lights</title>
+    <content>These are small, but look so nice and elegant once put up. We痳e buying more to complete our entire back wall.</content>
+    <rating>5</rating>
+    <is_spam>false</is_spam>
+    <is_deleted>false</is_deleted>
+    <product_ids>
+      <sku>BJ2061-01</sku>
+      <brand>FlyAchilles</brand>
+    </product_ids>
+  </entry>
+  <entry>
+    <review_id>review-162</review_id>
+    <reviewer>
+      <name>Pierre Picart</name>
+    </reviewer>
+    <review_timestamp>2025-04-10T16:00:46Z</review_timestamp>
+    <title>Lights ON</title>
+    <content>Very sturdy construction but still not too heavy. Easy to understand instructions.</content>
+    <rating>5</rating>
+    <is_spam>false</is_spam>
+    <is_deleted>false</is_deleted>
+    <product_ids>
+      <sku>OD2016-36</sku>
+      <brand>FlyAchilles</brand>
+    </product_ids>
+  </entry>
+  <entry>
+    <review_id>review-163</review_id>
+    <reviewer>
+      <name>Michael McGowan</name>
+    </reviewer>
+    <review_timestamp>2025-04-11T02:20:01Z</review_timestamp>
+    <title>Beautiful Lights but</title>
+    <content>The lights are great.  Instructions for installing a bit on the underwhelming side . Make them better and it痵 a home run,</content>
+    <rating>5</rating>
+    <is_spam>false</is_spam>
+    <is_deleted>false</is_deleted>
+    <product_ids>
+      <sku>BJ2042-01</sku>
+      <brand>FlyAchilles</brand>
+    </product_ids>
+  </entry>
+  <entry>
+    <review_id>review-164</review_id>
+    <reviewer>
+      <name>Ignacio Resillez</name>
+    </reviewer>
+    <review_timestamp>2025-04-11T11:38:06Z</review_timestamp>
+    <title>Review</title>
+    <content>I love the lights, but one of them had a defect. The control button was loose and it fell inside the unit, renedering it useless. I痬 hoping the replacement will be ok.</content>
+    <rating>5</rating>
+    <is_spam>false</is_spam>
+    <is_deleted>false</is_deleted>
+    <product_ids>
+      <sku>GH91091-01B</sku>
+      <brand>FlyAchilles</brand>
+    </product_ids>
+  </entry>
+  <entry>
+    <review_id>review-165</review_id>
+    <reviewer>
+      <name>Ignacio Resillez</name>
+    </reviewer>
+    <review_timestamp>2025-04-15T02:26:20Z</review_timestamp>
+    <title>Classy Table Lamps</title>
+    <content>No comment</content>
+    <rating>5</rating>
+    <is_spam>false</is_spam>
+    <is_deleted>false</is_deleted>
+    <product_ids>
+      <sku>GH91091-01B</sku>
+      <brand>FlyAchilles</brand>
+    </product_ids>
+  </entry>
+  <entry>
+    <review_id>review-166</review_id>
+    <reviewer>
+      <name>Renee Malanaphy</name>
+    </reviewer>
+    <review_timestamp>2025-04-15T03:24:24Z</review_timestamp>
+    <title>Simplistic beauty!</title>
+    <content>This is a beautiful addition to our remodel. I love the look and feel of the rich walnut, and the light it puts out from both the top and bottom. The simple design is perfect with our MCM vibe. It痵 absolutely perfect!</content>
+    <rating>5</rating>
+    <is_spam>false</is_spam>
+    <is_deleted>false</is_deleted>
+    <product_ids>
+      <sku>BJ2087-01</sku>
+      <brand>FlyAchilles</brand>
+    </product_ids>
+  </entry>
+  <entry>
+    <review_id>review-167</review_id>
+    <reviewer>
+      <name>Bob C.</name>
+    </reviewer>
+    <review_timestamp>2025-04-15T07:35:31Z</review_timestamp>
+    <title>Review</title>
+    <content>The result is beautiful, and it was a pleasant shopping experience.</content>
+    <rating>5</rating>
+    <is_spam>false</is_spam>
+    <is_deleted>false</is_deleted>
+    <product_ids>
+      <sku>FN1042-01B</sku>
+      <brand>FlyAchilles</brand>
+    </product_ids>
+  </entry>
+  <entry>
+    <review_id>review-168</review_id>
+    <reviewer>
+      <name>J.B.</name>
+    </reviewer>
+    <review_timestamp>2025-04-16T10:43:27Z</review_timestamp>
+    <title>High quality</title>
+    <content>This is an excellent outdoor light with outstanding quality. After three months of use, it has performed flawlessly without any issues. Highly reliable and built to last.</content>
+    <rating>5</rating>
+    <is_spam>false</is_spam>
+    <is_deleted>false</is_deleted>
+    <product_ids>
+      <sku>BJ2093-08</sku>
+      <brand>FlyAchilles</brand>
+    </product_ids>
+  </entry>
+  <entry>
+    <review_id>review-169</review_id>
+    <reviewer>
+      <name>Jack Zhang</name>
+    </reviewer>
+    <review_timestamp>2025-04-16T10:51:26Z</review_timestamp>
+    <title>Review</title>
+    <content>It痵 a beautiful and warm light, I really love it!</content>
+    <rating>5</rating>
+    <is_spam>false</is_spam>
+    <is_deleted>false</is_deleted>
+    <product_ids>
+      <sku>FN2451-01B</sku>
+      <brand>FlyAchilles</brand>
+    </product_ids>
+  </entry>
+  <entry>
+    <review_id>review-170</review_id>
+    <reviewer>
+      <name>Bobby R</name>
+    </reviewer>
+    <review_timestamp>2025-04-18T13:52:08Z</review_timestamp>
+    <title>Great Light!</title>
+    <content>As described, the light is attractive and bright.</content>
+    <rating>5</rating>
+    <is_spam>false</is_spam>
+    <is_deleted>false</is_deleted>
+    <product_ids>
+      <sku>FN2127-01B</sku>
+      <brand>FlyAchilles</brand>
+    </product_ids>
+  </entry>
+  <entry>
+    <review_id>review-171</review_id>
+    <reviewer>
+      <name>Michael Stankoven</name>
+    </reviewer>
+    <review_timestamp>2025-04-20T16:18:31Z</review_timestamp>
+    <title>Great addition to the front garden</title>
+    <content>Just installed this item and it provides a nice touch to our front garden by our driveway.
+It really stands out, we痳e looking forward to changing the colors as appropriate for the seasons.</content>
+    <rating>5</rating>
+    <is_spam>false</is_spam>
+    <is_deleted>false</is_deleted>
+    <product_ids>
+      <sku>OD2008-17</sku>
+      <brand>FlyAchilles</brand>
+    </product_ids>
+  </entry>
+  <entry>
+    <review_id>review-172</review_id>
+    <reviewer>
+      <name>Maria Conneway</name>
+    </reviewer>
+    <review_timestamp>2025-04-20T17:27:34Z</review_timestamp>
+    <title>Absolutely beautiful</title>
+    <content>No comment</content>
+    <rating>5</rating>
+    <is_spam>false</is_spam>
+    <is_deleted>false</is_deleted>
+    <product_ids>
+      <sku>GH88242-01B</sku>
+      <brand>FlyAchilles</brand>
+    </product_ids>
+  </entry>
+  <entry>
+    <review_id>review-173</review_id>
+    <reviewer>
+      <name>Chris Rubio</name>
+    </reviewer>
+    <review_timestamp>2025-04-21T03:53:08Z</review_timestamp>
+    <title>Awesome product</title>
+    <content>Awesome product. Super easy to install.</content>
+    <rating>5</rating>
+    <is_spam>false</is_spam>
+    <is_deleted>false</is_deleted>
+    <product_ids>
+      <sku>FN3363-01B</sku>
+      <brand>FlyAchilles</brand>
+    </product_ids>
+  </entry>
+  <entry>
+    <review_id>review-174</review_id>
+    <reviewer>
+      <name>Anna Perkins </name>
+    </reviewer>
+    <review_timestamp>2025-04-21T08:46:51Z</review_timestamp>
+    <title>Perfect website</title>
+    <content>The effect is simply perfect, better looking than the pictures shown on the website, I am very very satisfied</content>
+    <rating>5</rating>
+    <is_spam>false</is_spam>
+    <is_deleted>false</is_deleted>
+    <product_ids>
+      <sku>BJ2173-01</sku>
+      <brand>FlyAchilles</brand>
+    </product_ids>
+  </entry>
+  <entry>
+    <review_id>review-175</review_id>
+    <reviewer>
+      <name>Zachary L.</name>
+    </reviewer>
+    <review_timestamp>2025-04-22T09:54:23Z</review_timestamp>
+    <title>Review</title>
+    <content>The quality is great, the shipping is fast, and it is trustworthy.</content>
+    <rating>5</rating>
+    <is_spam>false</is_spam>
+    <is_deleted>false</is_deleted>
+    <product_ids>
+      <sku>OD1015-01</sku>
+      <brand>FlyAchilles</brand>
+    </product_ids>
+  </entry>
+  <entry>
+    <review_id>review-176</review_id>
+    <reviewer>
+      <name>Michael Kipp</name>
+    </reviewer>
+    <review_timestamp>2025-04-30T17:35:25Z</review_timestamp>
+    <title>Great compact lights</title>
+    <content>Made of quality material and easy install</content>
+    <rating>5</rating>
+    <is_spam>false</is_spam>
+    <is_deleted>false</is_deleted>
+    <product_ids>
+      <sku>OD2022-01</sku>
+      <brand>FlyAchilles</brand>
+    </product_ids>
+  </entry>
+  <entry>
+    <review_id>review-177</review_id>
+    <reviewer>
+      <name>Eric</name>
+    </reviewer>
+    <review_timestamp>2025-05-02T20:45:45Z</review_timestamp>
+    <title>Awesome light</title>
+    <content>No comment</content>
+    <rating>5</rating>
+    <is_spam>false</is_spam>
+    <is_deleted>false</is_deleted>
+    <product_ids>
+      <sku>OD2095-01</sku>
+      <brand>FlyAchilles</brand>
+    </product_ids>
+  </entry>
+  <entry>
+    <review_id>review-178</review_id>
+    <reviewer>
+      <name>Ann Stimmler-Arentzen</name>
+    </reviewer>
+    <review_timestamp>2025-05-05T02:30:40Z</review_timestamp>
+    <title>My exterior lights</title>
+    <content>My starfish outdoor lighting came this week.  My electrician installed them and they are gorgeous. The bright white lights up A LOT. If you want it to be warmer, but the warm weight.</content>
+    <rating>5</rating>
+    <is_spam>false</is_spam>
+    <is_deleted>false</is_deleted>
+    <product_ids>
+      <sku>RD1020-01</sku>
+      <brand>FlyAchilles</brand>
+    </product_ids>
+  </entry>
+  <entry>
+    <review_id>review-179</review_id>
+    <reviewer>
+      <name>Geoffroy </name>
+    </reviewer>
+    <review_timestamp>2025-05-05T16:21:24Z</review_timestamp>
+    <title>Ice Cube Solar lights</title>
+    <content>These lights work terrific .  Look great when they are on and off . Will definitely get more to put along walkways , deck and patio steps .</content>
+    <rating>5</rating>
+    <is_spam>false</is_spam>
+    <is_deleted>false</is_deleted>
+    <product_ids>
+      <sku>GH89346-01B</sku>
+      <brand>FlyAchilles</brand>
+    </product_ids>
+  </entry>
+  <entry>
+    <review_id>review-180</review_id>
+    <reviewer>
+      <name>Terry Biehunko</name>
+    </reviewer>
+    <review_timestamp>2025-05-08T12:04:50Z</review_timestamp>
+    <title>outdoor garden lights</title>
+    <content>Attractive light but could be brighter but I'm happy with it and will order more in the future</content>
+    <rating>4</rating>
+    <is_spam>false</is_spam>
+    <is_deleted>false</is_deleted>
+    <product_ids>
+      <sku>FN2410-01B</sku>
+      <brand>FlyAchilles</brand>
+    </product_ids>
+  </entry>
+  <entry>
+    <review_id>review-181</review_id>
+    <reviewer>
+      <name>Thomas Shepherd</name>
+    </reviewer>
+    <review_timestamp>2025-05-10T17:30:45Z</review_timestamp>
+    <title>Great lights</title>
+    <content>We purchased 3 of these lights for the front of our house. Installation was simple and they look great!</content>
+    <rating>5</rating>
+    <is_spam>false</is_spam>
+    <is_deleted>false</is_deleted>
+    <product_ids>
+      <sku>DJ2041-01</sku>
+      <brand>FlyAchilles</brand>
+    </product_ids>
+  </entry>
+  <entry>
+    <review_id>review-182</review_id>
+    <reviewer>
+      <name>Doug D. </name>
+    </reviewer>
+    <review_timestamp>2025-05-12T20:22:08Z</review_timestamp>
+    <title>A GREAT Purchase Decision with the Fly Achilles Striped Glass Portable Lantern</title>
+    <content>No comment</content>
+    <rating>5</rating>
+    <is_spam>false</is_spam>
+    <is_deleted>false</is_deleted>
+    <product_ids>
+      <sku>FN3035-01B</sku>
+      <brand>FlyAchilles</brand>
+    </product_ids>
+  </entry>
+  <entry>
+    <review_id>review-183</review_id>
+    <reviewer>
+      <name>MARIA ELENA ESPARZA</name>
+    </reviewer>
+    <review_timestamp>2025-05-16T17:20:56Z</review_timestamp>
+    <title>Modern lamppost</title>
+    <content>It looks sleek and gives a wonderful light</content>
+    <rating>5</rating>
+    <is_spam>false</is_spam>
+    <is_deleted>false</is_deleted>
+    <product_ids>
+      <sku>FN1052-01B</sku>
+      <brand>FlyAchilles</brand>
+    </product_ids>
+  </entry>
+  <entry>
+    <review_id>review-184</review_id>
+    <reviewer>
+      <name>John McMichael</name>
+    </reviewer>
+    <review_timestamp>2025-05-21T18:26:16Z</review_timestamp>
+    <title>Review</title>
+    <content>No comment</content>
+    <rating>5</rating>
+    <is_spam>false</is_spam>
+    <is_deleted>false</is_deleted>
+    <product_ids>
+      <sku>FN3173-01B</sku>
+      <brand>FlyAchilles</brand>
+    </product_ids>
+  </entry>
+  <entry>
+    <review_id>review-185</review_id>
+    <reviewer>
+      <name>Chris</name>
+    </reviewer>
+    <review_timestamp>2025-05-22T21:30:17Z</review_timestamp>
+    <title>Great lights</title>
+    <content>As advertised!</content>
+    <rating>5</rating>
+    <is_spam>false</is_spam>
+    <is_deleted>false</is_deleted>
+    <product_ids>
+      <sku>OD2185-04</sku>
+      <brand>FlyAchilles</brand>
+    </product_ids>
+  </entry>
+  <entry>
+    <review_id>review-186</review_id>
+    <reviewer>
+      <name>Rick Sorrentino</name>
+    </reviewer>
+    <review_timestamp>2025-05-29T19:15:17Z</review_timestamp>
+    <title>Review</title>
+    <content>Received (1) damaged.  
+Customer support team was very responsive, and sent a replacement right away.</content>
+    <rating>5</rating>
+    <is_spam>false</is_spam>
+    <is_deleted>false</is_deleted>
+    <product_ids>
+      <sku>FN1052-01B</sku>
+      <brand>FlyAchilles</brand>
+    </product_ids>
+  </entry>
+  <entry>
+    <review_id>review-187</review_id>
+    <reviewer>
+      <name>Statler </name>
+    </reviewer>
+    <review_timestamp>2025-06-02T02:11:39Z</review_timestamp>
+    <title>Spot colorful exterior lights</title>
+    <content>With all do respect to other companies.... I have to say his are very exceptional and great for commercial buildings. I cannot ask for more</content>
+    <rating>5</rating>
+    <is_spam>false</is_spam>
+    <is_deleted>false</is_deleted>
+    <product_ids>
+      <sku>OD2068-01</sku>
+      <brand>FlyAchilles</brand>
+    </product_ids>
+  </entry>
+  <entry>
+    <review_id>review-188</review_id>
+    <reviewer>
+      <name>Cindy</name>
+    </reviewer>
+    <review_timestamp>2025-06-02T04:15:04Z</review_timestamp>
+    <title>Happy so far</title>
+    <content>Nice lighting along a dark path way. Casts cool shadows from the nearby plants.</content>
+    <rating>5</rating>
+    <is_spam>false</is_spam>
+    <is_deleted>false</is_deleted>
+    <product_ids>
+      <sku>OD2055-03</sku>
+      <brand>FlyAchilles</brand>
+    </product_ids>
+  </entry>
+  <entry>
+    <review_id>review-189</review_id>
+    <reviewer>
+      <name>Steve Wood</name>
+    </reviewer>
+    <review_timestamp>2025-06-02T17:54:11Z</review_timestamp>
+    <title>LED Outdoor Spotlight</title>
+    <content>Unit is solidly constructed and works well, although the beam spread is wider than I anticipated. Leaving off one star because no wiring instructions were included (ie, which wires are what), but company promptly sent them by email upon request.</content>
+    <rating>4</rating>
+    <is_spam>false</is_spam>
+    <is_deleted>false</is_deleted>
+    <product_ids>
+      <sku>OD2022-01</sku>
+      <brand>FlyAchilles</brand>
+    </product_ids>
+  </entry>
+  <entry>
+    <review_id>review-190</review_id>
+    <reviewer>
+      <name>Rose Kraemer</name>
+    </reviewer>
+    <review_timestamp>2025-06-05T15:41:07Z</review_timestamp>
+    <title>Adjustable lighting looks great</title>
+    <content>I have the adjustable solar led lights and they are great.</content>
+    <rating>5</rating>
+    <is_spam>false</is_spam>
+    <is_deleted>false</is_deleted>
+    <product_ids>
+      <sku>OD3406-03</sku>
+      <brand>FlyAchilles</brand>
+    </product_ids>
+  </entry>
+  <entry>
+    <review_id>review-191</review_id>
+    <reviewer>
+      <name>Brian T Campbell</name>
+    </reviewer>
+    <review_timestamp>2025-06-08T02:07:45Z</review_timestamp>
+    <title>Amazing look. Very Surreal</title>
+    <content>Super bright at 72 watts looks amazing at distance. Really spectacular on direction appearance!</content>
+    <rating>5</rating>
+    <is_spam>false</is_spam>
+    <is_deleted>false</is_deleted>
+    <product_ids>
+      <sku>OD2095-01</sku>
+      <brand>FlyAchilles</brand>
+    </product_ids>
+  </entry>
+  <entry>
+    <review_id>review-192</review_id>
+    <reviewer>
+      <name>Kevin Rapp</name>
+    </reviewer>
+    <review_timestamp>2025-06-08T04:47:19Z</review_timestamp>
+    <title>Great sconces</title>
+    <content>No comment</content>
+    <rating>5</rating>
+    <is_spam>false</is_spam>
+    <is_deleted>false</is_deleted>
+    <product_ids>
+      <sku>BJ2018-01</sku>
+      <brand>FlyAchilles</brand>
+    </product_ids>
+  </entry>
+  <entry>
+    <review_id>review-193</review_id>
+    <reviewer>
+      <name>Johnson</name>
+    </reviewer>
+    <review_timestamp>2025-06-11T03:44:06Z</review_timestamp>
+    <title>Very nice</title>
+    <content>Very nice lighting</content>
+    <rating>5</rating>
+    <is_spam>false</is_spam>
+    <is_deleted>false</is_deleted>
+    <product_ids>
+      <sku>GH94604-01B</sku>
+      <brand>FlyAchilles</brand>
+    </product_ids>
+  </entry>
+  <entry>
+    <review_id>review-194</review_id>
+    <reviewer>
+      <name>Sara</name>
+    </reviewer>
+    <review_timestamp>2025-06-12T19:10:30Z</review_timestamp>
+    <title>Happy with purchase</title>
+    <content>Light posts are beautiful and although delayed, customer service has been great.</content>
+    <rating>5</rating>
+    <is_spam>false</is_spam>
+    <is_deleted>false</is_deleted>
+    <product_ids>
+      <sku>OD3604-09</sku>
+      <brand>FlyAchilles</brand>
+    </product_ids>
+  </entry>
+  <entry>
+    <review_id>review-195</review_id>
+    <reviewer>
+      <name>Anonymous</name>
+    </reviewer>
+    <review_timestamp>2025-06-17T03:07:56Z</review_timestamp>
+    <title>Nice quality</title>
+    <content>No comment</content>
+    <rating>5</rating>
+    <is_spam>false</is_spam>
+    <is_deleted>false</is_deleted>
+    <product_ids>
+      <sku>RD1009-01</sku>
+      <brand>FlyAchilles</brand>
+    </product_ids>
+  </entry>
+  <entry>
+    <review_id>review-196</review_id>
+    <reviewer>
+      <name>Brian Palmer</name>
+    </reviewer>
+    <review_timestamp>2025-06-20T03:00:42Z</review_timestamp>
+    <title>Excellent Product</title>
+    <content>I was pleasantly surprised with the commercial quality of the LED Lighting strip.  This is not your typical $39.99 Amazon light strip that burns out in 3 months.  It was easy to mount and connect.  Im sure you will love it!</content>
+    <rating>5</rating>
+    <is_spam>false</is_spam>
+    <is_deleted>false</is_deleted>
+    <product_ids>
+      <sku>FN3363-01B</sku>
+      <brand>FlyAchilles</brand>
+    </product_ids>
+  </entry>
+  <entry>
+    <review_id>review-197</review_id>
+    <reviewer>
+      <name>Beth Wise</name>
+    </reviewer>
+    <review_timestamp>2025-06-20T17:47:57Z</review_timestamp>
+    <title>Review</title>
+    <content>Very classy looking lights--we get many compliments! They were easy to install, although there were no instructions with the lights (red to black, blue to white, yellow to ground). Very quick shipping too!</content>
+    <rating>5</rating>
+    <is_spam>false</is_spam>
+    <is_deleted>false</is_deleted>
+    <product_ids>
+      <sku>FN2186-01B</sku>
+      <brand>FlyAchilles</brand>
+    </product_ids>
+  </entry>
+  <entry>
+    <review_id>review-198</review_id>
+    <reviewer>
+      <name>Alicia Carman</name>
+    </reviewer>
+    <review_timestamp>2025-06-23T16:37:34Z</review_timestamp>
+    <title>Simply Classic!</title>
+    <content>The lights are perfect and seems to be of excellent quality!</content>
+    <rating>5</rating>
+    <is_spam>false</is_spam>
+    <is_deleted>false</is_deleted>
+    <product_ids>
+      <sku>BJ2014-01</sku>
+      <brand>FlyAchilles</brand>
+    </product_ids>
+  </entry>
+  <entry>
+    <review_id>review-199</review_id>
+    <reviewer>
+      <name>Sue Byrnes</name>
+    </reviewer>
+    <review_timestamp>2025-06-26T01:06:42Z</review_timestamp>
+    <title>Crystal pendant light</title>
+    <content>No comment</content>
+    <rating>5</rating>
+    <is_spam>false</is_spam>
+    <is_deleted>false</is_deleted>
+    <product_ids>
+      <sku>DJ2061-03</sku>
+      <brand>FlyAchilles</brand>
+    </product_ids>
+  </entry>
+  <entry>
+    <review_id>review-200</review_id>
+    <reviewer>
+      <name>Lorris Weppelmann</name>
+    </reviewer>
+    <review_timestamp>2025-06-26T18:25:24Z</review_timestamp>
+    <title>Exemplary customer service!!!!</title>
+    <content>No comment</content>
+    <rating>5</rating>
+    <is_spam>false</is_spam>
+    <is_deleted>false</is_deleted>
+    <product_ids>
+      <sku>OD2055-03</sku>
+      <brand>FlyAchilles</brand>
+    </product_ids>
+  </entry>
+  <entry>
+    <review_id>review-201</review_id>
+    <reviewer>
+      <name>Franklin Ryiz</name>
+    </reviewer>
+    <review_timestamp>2025-06-30T01:34:53Z</review_timestamp>
+    <title>Light black</title>
+    <content>It is an excellent product, I recommend it for home, a great experience</content>
+    <rating>5</rating>
+    <is_spam>false</is_spam>
+    <is_deleted>false</is_deleted>
+    <product_ids>
+      <sku>FN2595-01B</sku>
+      <brand>FlyAchilles</brand>
+    </product_ids>
+  </entry>
+  <entry>
+    <review_id>review-202</review_id>
+    <reviewer>
+      <name>Ford</name>
+    </reviewer>
+    <review_timestamp>2025-07-02T04:07:04Z</review_timestamp>
+    <title>Buy. NOW!</title>
+    <content>These lights are amazing. I have started with 1 and now have 4. 2 just got stolen and Im about to buy 2 more.</content>
+    <rating>5</rating>
+    <is_spam>false</is_spam>
+    <is_deleted>false</is_deleted>
+    <product_ids>
+      <sku>OD2096-01</sku>
+      <brand>FlyAchilles</brand>
+    </product_ids>
+  </entry>
+  <entry>
+    <review_id>review-203</review_id>
+    <reviewer>
+      <name>sally king</name>
+    </reviewer>
+    <review_timestamp>2025-03-05T09:17:02Z</review_timestamp>
+    <title>beautiful lamp</title>
+    <content>That's a really beautiful lamp, absolutely stunning. My little dog loves wandering around it.</content>
+    <rating>5</rating>
+    <is_spam>false</is_spam>
+    <is_deleted>false</is_deleted>
+    <product_ids>
+      <sku>GH89958-01B</sku>
+      <brand>FlyAchilles</brand>
+    </product_ids>
+  </entry>
+  <entry>
+    <review_id>review-204</review_id>
+    <reviewer>
+      <name>Michael N</name>
+    </reviewer>
+    <review_timestamp>2025-03-31T03:04:48Z</review_timestamp>
+    <title>It痵 great</title>
+    <content>Easy to install and a great addition to our yard. We are considering buying several more and strategically placing them throughout our property. Overall, this is definitely a great product and we are very happy with how it turned out.</content>
+    <rating>5</rating>
+    <is_spam>false</is_spam>
+    <is_deleted>false</is_deleted>
+    <product_ids>
+      <sku>BJ2121-01</sku>
+      <brand>FlyAchilles</brand>
+    </product_ids>
+  </entry>
+  <entry>
+    <review_id>review-205</review_id>
+    <reviewer>
+      <name>MARIA ELENA ESPARZA</name>
+    </reviewer>
+    <review_timestamp>2025-05-16T16:57:37Z</review_timestamp>
+    <title>Sconce</title>
+    <content>Beautiful and elegant</content>
+    <rating>5</rating>
+    <is_spam>false</is_spam>
+    <is_deleted>false</is_deleted>
+    <product_ids>
+      <sku>FN2332-01B</sku>
+      <brand>FlyAchilles</brand>
+    </product_ids>
+  </entry>
+  <entry>
+    <review_id>review-206</review_id>
+    <reviewer>
+      <name>Cindy</name>
+    </reviewer>
+    <review_timestamp>2025-07-01T21:30:23Z</review_timestamp>
+    <title>Solid Lights</title>
+    <content>I bought four and glad I did. The lighting is nice, but needs a good grouping to really create an effect. They feel well made. I痙 buy again</content>
+    <rating>5</rating>
+    <is_spam>false</is_spam>
+    <is_deleted>false</is_deleted>
+    <product_ids>
+      <sku>OD2055-03</sku>
+      <brand>FlyAchilles</brand>
+    </product_ids>
+  </entry>
+  <entry>
+    <review_id>review-207</review_id>
+    <reviewer>
+      <name>Henry Lescault</name>
+    </reviewer>
+    <review_timestamp>2025-07-03T22:53:31Z</review_timestamp>
+    <title>Excellent product!</title>
+    <content>These lights are amazing. I痸e had them for several weeks now and even during all the Florida rains, they function superbly. The light they give illuminates my palm trees so nicely. This product is top notch.</content>
+    <rating>5</rating>
+    <is_spam>false</is_spam>
+    <is_deleted>false</is_deleted>
+    <product_ids>
+      <sku>FN2590-01B</sku>
+      <brand>FlyAchilles</brand>
+    </product_ids>
+  </entry>
+  <entry>
+    <review_id>review-208</review_id>
+    <reviewer>
+      <name>Scott Dean</name>
+    </reviewer>
+    <review_timestamp>2025-07-05T14:41:16Z</review_timestamp>
+    <title>Great light</title>
+    <content>Just purchase. Shipped quickly work perfectly so far
+Will by again if needed for other projects</content>
+    <rating>5</rating>
+    <is_spam>false</is_spam>
+    <is_deleted>false</is_deleted>
+    <product_ids>
+      <sku>OD2055-03</sku>
+      <brand>FlyAchilles</brand>
+    </product_ids>
+  </entry>
+  <entry>
+    <review_id>review-209</review_id>
+    <reviewer>
+      <name>Bob Hutchcroft</name>
+    </reviewer>
+    <review_timestamp>2025-07-10T13:43:02Z</review_timestamp>
+    <title>Awesome lights</title>
+    <content>No comment</content>
+    <rating>5</rating>
+    <is_spam>false</is_spam>
+    <is_deleted>false</is_deleted>
+    <product_ids>
+      <sku>OD2096-01</sku>
+      <brand>FlyAchilles</brand>
+    </product_ids>
+  </entry>
+  <entry>
+    <review_id>review-210</review_id>
+    <reviewer>
+      <name>christen miller</name>
+    </reviewer>
+    <review_timestamp>2025-07-10T19:28:23Z</review_timestamp>
+    <title>Great solar light</title>
+    <content>First time I ever bought an outdoor solar and I want to buy another one soon!</content>
+    <rating>5</rating>
+    <is_spam>false</is_spam>
+    <is_deleted>false</is_deleted>
+    <product_ids>
+      <sku>OD2055-03</sku>
+      <brand>FlyAchilles</brand>
+    </product_ids>
+  </entry>
+  <entry>
+    <review_id>review-211</review_id>
+    <reviewer>
+      <name>Wendy</name>
+    </reviewer>
+    <review_timestamp>2025-07-11T05:49:50Z</review_timestamp>
+    <title>Nice light for our pools</title>
+    <content>Bought these for our daughters who each have pools. These globes are great for evening swims.</content>
+    <rating>5</rating>
+    <is_spam>false</is_spam>
+    <is_deleted>false</is_deleted>
+    <product_ids>
+      <sku>OD2008-17</sku>
+      <brand>FlyAchilles</brand>
+    </product_ids>
+  </entry>
+  <entry>
+    <review_id>review-212</review_id>
+    <reviewer>
+      <name>Karen Lea</name>
+    </reviewer>
+    <review_timestamp>2025-07-11T06:09:43Z</review_timestamp>
+    <title>Work good</title>
+    <content>They look good up. Work good and looks great on the right style home</content>
+    <rating>5</rating>
+    <is_spam>false</is_spam>
+    <is_deleted>false</is_deleted>
+    <product_ids>
+      <sku>BJ2134-01</sku>
+      <brand>FlyAchilles</brand>
+    </product_ids>
+  </entry>
+  <entry>
+    <review_id>review-213</review_id>
+    <reviewer>
+      <name>Lori Akbar</name>
+    </reviewer>
+    <review_timestamp>2025-07-11T06:36:35Z</review_timestamp>
+    <title>Beautiful</title>
+    <content>It looks beautiful, and it was a good deal, too.</content>
+    <rating>5</rating>
+    <is_spam>false</is_spam>
+    <is_deleted>false</is_deleted>
+    <product_ids>
+      <sku>BJ2153-01</sku>
+      <brand>FlyAchilles</brand>
+    </product_ids>
+  </entry>
+  <entry>
+    <review_id>review-214</review_id>
+    <reviewer>
+      <name>Brewski</name>
+    </reviewer>
+    <review_timestamp>2025-07-11T11:37:02Z</review_timestamp>
+    <title>look nice!</title>
+    <content>Got it for a walking trail. look nice!</content>
+    <rating>5</rating>
+    <is_spam>false</is_spam>
+    <is_deleted>false</is_deleted>
+    <product_ids>
+      <sku>FN3336-01B</sku>
+      <brand>FlyAchilles</brand>
+    </product_ids>
+  </entry>
+  <entry>
+    <review_id>review-215</review_id>
+    <reviewer>
+      <name>charlie kat</name>
+    </reviewer>
+    <review_timestamp>2025-07-11T11:42:59Z</review_timestamp>
+    <title>Looks great</title>
+    <content>Looks great on our front porch! Great product for the money.</content>
+    <rating>5</rating>
+    <is_spam>false</is_spam>
+    <is_deleted>false</is_deleted>
+    <product_ids>
+      <sku>FN2625-01B</sku>
+      <brand>FlyAchilles</brand>
+    </product_ids>
+  </entry>
+  <entry>
+    <review_id>review-216</review_id>
+    <reviewer>
+      <name>Malcolm S</name>
+    </reviewer>
+    <review_timestamp>2025-07-12T21:48:00Z</review_timestamp>
+    <title>Replaced all of our existing light bollards with these</title>
+    <content>We replaced all of our bollards with these, some 50 units.  The light throw at night is great, they are easy to install, and seem super durable.</content>
+    <rating>5</rating>
+    <is_spam>false</is_spam>
+    <is_deleted>false</is_deleted>
+    <product_ids>
+      <sku>FN2416-01B</sku>
+      <brand>FlyAchilles</brand>
+    </product_ids>
+  </entry>
+  <entry>
+    <review_id>review-217</review_id>
+    <reviewer>
+      <name>Rusty</name>
+    </reviewer>
+    <review_timestamp>2025-07-14T03:24:20Z</review_timestamp>
+    <title>Captivating look and great customer service</title>
+    <content>No comment</content>
+    <rating>5</rating>
+    <is_spam>false</is_spam>
+    <is_deleted>false</is_deleted>
+    <product_ids>
+      <sku>OD2096-01</sku>
+      <brand>FlyAchilles</brand>
+    </product_ids>
+  </entry>
+  <entry>
+    <review_id>review-218</review_id>
+    <reviewer>
+      <name>Katen Bol</name>
+    </reviewer>
+    <review_timestamp>2025-07-17T03:21:57Z</review_timestamp>
+    <title>They look great!</title>
+    <content>I bought 6 of these lights to replace the original fixtures that we had next to our front door and our garage door- I would buy these again.</content>
+    <rating>5</rating>
+    <is_spam>false</is_spam>
+    <is_deleted>false</is_deleted>
+    <product_ids>
+      <sku>FN858-02B</sku>
+      <brand>FlyAchilles</brand>
+    </product_ids>
+  </entry>
+  <entry>
+    <review_id>review-219</review_id>
+    <reviewer>
+      <name>Social Kim</name>
+    </reviewer>
+    <review_timestamp>2025-07-17T03:35:08Z</review_timestamp>
+    <title>Absolutely stunning!</title>
+    <content>Just take your time! Base goes up first. Have the pieces ready ( have another person hand you each one as you clip onto the base). Many extra peices, wrapped beautifully.</content>
+    <rating>5</rating>
+    <is_spam>false</is_spam>
+    <is_deleted>false</is_deleted>
+    <product_ids>
+      <sku>DJ8756B-02</sku>
+      <brand>FlyAchilles</brand>
+    </product_ids>
+  </entry>
+</feed>
